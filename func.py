@@ -1,9 +1,12 @@
 import re
-
+import pandas as pd
 
 def parse_train(x):
     # x should be the train code eg 123
     # {"id": "123", "type:" "bullet", direction: "south"}
+    x = str(x)
+    if x == '': return ''
+    elif len(x) != 3: return ''
     t = {}
     t["id"] = x if len(x) is 3 else -1
     t["direction"] = "north" if x[2] in [1,3,5,7,9] else "south"
@@ -13,6 +16,8 @@ def parse_train(x):
         t["type"] = "limited"
     elif x[0] == '3':
         t["type"] = "bullet"
+        
+    t = pd.DataFrame(t)
     return t
     
 def get_time_of_day(x):
@@ -34,14 +39,11 @@ def get_time_of_day(x):
         else:
             return 0
         
-        
-def flag_useful(x):
-    # Broad swath cutting of not-useful tweets
-    # x shoul be a full row
-    
-        
-
-        
 def check_hashtag(x):
     # x should be the cleaned hashtag row
-    t = re.search('[N,S]B[0-9]{0,3}',x)
+    if x == '': return ''
+    t = re.search('[N,S]B([0-9]{0,3})',x)
+    if t:
+        return t.group(1)
+    else:
+        return ''
