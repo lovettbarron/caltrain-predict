@@ -16,9 +16,10 @@ def parse_train(x):
         t["type"] = "limited"
     elif x[0] == '3':
         t["type"] = "bullet"
-        
-    t = pd.DataFrame(t)
-    return t
+    else:
+        t["type"] = "Unknown"
+    ret = pd.Series({'train_id':t["id"], 'train_direction':t["direction"], 'train_type': t["type"] })
+    return ret
     
 def get_time_of_day(x):
     # x should be datetime object
