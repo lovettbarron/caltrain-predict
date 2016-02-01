@@ -1,18 +1,20 @@
 import re
 import pandas as pd
 
-def parse_train(l):
+def parse_train_t(t):
     # x should be a list with train codes eg 123
     # {"id": "123", "type:" "bullet", direction: "south"}
     # Iterate through list
-    s = l['topic_train']
+    t = pd.DataFrame(t)
+    s = t['topic_train']
+    if s < 1: return None
     ret = []
     for x in s:
         t = {}
         # Check train id
         x = str(x)
-        if x == '': return ''
-        elif len(x) != 3: return ''
+        # if x == '': return ''
+        # elif len(x) != 3: return ''
         t["id"] = x if len(x) is 3 else -1
 
         # 1 = north, 2 = south
@@ -26,7 +28,7 @@ def parse_train(l):
             t["type"] = 2 # bullet
         else:
             t["type"] = -1
-        ret.append(pd.Series({'tweet_id': l.id, 'train_id':t["id"], 'train_direction':t["direction"], 'train_type': t["type"] }))
+        ret.append({'tweet_id': t['id'],'timestamp': t['created_at'], 'train_id':t["id"], 'train_direction':t["direction"], 'train_type': t["type"] })
     return ret
     
 def get_time_of_day(x):
