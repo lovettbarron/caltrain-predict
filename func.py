@@ -50,6 +50,17 @@ def get_time_of_day(x):
         else:
             return 0
         
+def parse_train_id(x):
+    # x should be the cleaned hashtag row
+    if x == '': return ''
+    t = re.search('([0-9]{0,3})',x)
+    if t:
+        print t.group(0)
+        return t.group(0)
+    else:
+        return ''
+            
+        
 def check_hashtag(x):
     # x should be the cleaned hashtag row
     if x == '': return ''
