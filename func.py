@@ -1,35 +1,50 @@
 import re
 import pandas as pd
 
-def parse_train_t(t):
-    # x should be a list with train codes eg 123
-    # {"id": "123", "type:" "bullet", direction: "south"}
-    # Iterate through list
-    t = pd.DataFrame(t)
-    s = t['topic_train']
-    if s < 1: return None
-    ret = []
+ret = []
+
+def parse_train(t):
+# x should be a list with train codes eg 123
+# {"id": "123", "type:" "bullet", direction: "south"}
+
+    try:
+        s = t['topic_train'].split(',')
+    except:
+        return t['topic_train']
+    if s[0] == '':
+#         print ""
+        return np.nan
     for x in s:
-        t = {}
+#         print "Iter",x[1:-1]
+        q = {}
         # Check train id
+#         x = parse_train_id(x)
         x = str(x)
-        # if x == '': return ''
-        # elif len(x) != 3: return ''
-        t["id"] = x if len(x) is 3 else -1
+        x = str(x[1:-1])
+        if len(x)<3: continue
 
-        # 1 = north, 2 = south
-        t["direction"] = 1 if x[2] in [1,3,5,7,9] else 0
-
+        # 1 = north, 0 = south
+        q["t_northbound"] = 1 if int(x[2]) in [1,3,5,7,9] else 0
+        q['t_limited'] = 0
+        q['t_bullet'] = 0
+        
         if x[0] == '1':
-            t["type"] = 0 # local
+#             q["type"] = 0 # local
+            pass
         elif x[0] == '2':
-            t["type"] = 1 # limited
+            q["t_limited"] = 1 # limited
         elif x[0] == '3':
-            t["type"] = 2 # bullet
+            q["t_bullet"] = 1 # bullet
         else:
-            t["type"] = -1
-        ret.append({'tweet_id': t['id'],'timestamp': t['created_at'], 'train_id':t["id"], 'train_direction':t["direction"], 'train_type': t["type"] })
-    return ret
+            pass
+#             q["type"] = -1'
+        ret.append({'tweet_id': t['id'],
+                    'timestamp': t['created_at'], 
+                    'train_id':x, 
+                    't_northbound':q["t_northbound"], 
+                    't_limited': q["t_limited"],
+                    't_bullet': q['t_bullet']})
+    return s
     
 def get_time_of_day(x):
     # x should be datetime object
@@ -50,21 +65,12 @@ def get_time_of_day(x):
         else:
             return 0
         
-def parse_train_id(x):
+
+def check_train_id(x):
     # x should be the cleaned hashtag row
     if x == '': return ''
-    t = re.search('([0-9]{0,3})',x)
-    if t:
-        print t.group(0)
-        return t.group(0)
-    else:
-        return ''
-            
-        
-def check_hashtag(x):
-    # x should be the cleaned hashtag row
-    if x == '': return ''
-    t = re.findall('[N,S]B([0-9]{0,3})',x)
+    t = re.findall('#?[N,S][B,b]\s?([0-9]{0,3})',x) # Seems more robust
+    # t = re.findall('[N,S]B([0-9]{0,3})',x)
     if t:
         return t
     else:
@@ -75,7 +81,7 @@ def check_late(x):
     if x == '': return ''
     t = re.findall('[N,S]B([0-9]{0,3})',x)
     if t:
-        return t
+        return t # { is_delayed, magnitude 1-5 }
     else:
         return ''
     
