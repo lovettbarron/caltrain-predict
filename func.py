@@ -55,15 +55,15 @@ def get_time_of_day(x):
     #average 0
     
         if x.hour <= 6 and x.hour >= 23:
-            return -1 # Not running
+            return "shutdown" # Not running
         elif x.hour > 10 and x.hour < 16:
-            return 2 # During work day
+            return "workday" # During work day
         elif x.hour >= 16 and x.hour <= 19:
-            return 3 # Evening rush
+            return "rush_evening" # Evening rush
         elif x.hour > 6 and x.hour <=10:
-            return 1 # Morning Rush
+            return "rush_morning" # Morning Rush
         else:
-            return 0
+            return "error"
         
 
 def check_train_id(x):
