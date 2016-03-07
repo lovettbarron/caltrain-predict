@@ -4,6 +4,7 @@ import pandas as pd
 ret = []
 
 def parse_train(t):
+# Revised this function to work with categorical variables
 # x should be a list with train codes eg 123
 # {"id": "123", "type:" "bullet", direction: "south"}
 
@@ -12,15 +13,11 @@ def parse_train(t):
     except:
         return t['topic_train']
     if s[0] == '':
-#         print ""
         return np.nan
     for x in s:
-#         print "Iter",x[1:-1]
         q = {}
-        # Check train id
-#         x = parse_train_id(x)
         x = str(x)
-        x = str(x[1:-1])
+        x = re.sub('[^0-9]','', x)
         if len(x)<3: continue
 
         # 1 = north, 0 = south
@@ -29,23 +26,23 @@ def parse_train(t):
         q['t_bullet'] = 0
         
         if x[0] == '1':
-#             q["type"] = 0 # local
-            pass
+            q['t_limited'] = 0
         elif x[0] == '2':
             q["t_limited"] = 1 # limited
         elif x[0] == '3':
             q["t_bullet"] = 1 # bullet
         else:
-            pass
-#             q["type"] = -1'
+            q['t_limited'] = 0
+
         ret.append({'tweet_id': t['id'],
                     'timestamp': t['created_at'], 
-                    'train_id':x, 
+                    'train_id': int(x),
                     't_northbound':q["t_northbound"], 
                     't_limited': q["t_limited"],
                     't_bullet': q['t_bullet']})
     return s
-    
+
+
 def get_time_of_day(x):
     # x should be datetime object
     # offline: -1
@@ -53,18 +50,12 @@ def get_time_of_day(x):
     # workday: 2
     # peak-evening: 3
     #average 0
-    
-        if x.hour <= 6 and x.hour >= 23:
-            return "shutdown" # Not running
-        elif x.hour > 10 and x.hour < 16:
-            return "workday" # During work day
-        elif x.hour >= 16 and x.hour <= 19:
-            return "rush_evening" # Evening rush
-        elif x.hour > 6 and x.hour <=10:
-            return "rush_morning" # Morning Rush
-        else:
-            return "error"
-        
+    if x.hour >= 16 and x.hour <= 19:
+        return 1 # Evening rush
+    elif x.hour > 6 and x.hour <=10:
+        return 1 # Morning Rush
+    else:
+        return 0
 
 def check_train_id(x):
     # x should be the cleaned hashtag row
