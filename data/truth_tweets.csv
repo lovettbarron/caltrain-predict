@@ -1,0 +1,644 @@
+,id,text,train_id,is_delay,delay_minor,delay_med,delay_major,delay_catastrophic,is_backlog,is_canceled,is_passing,is_accident,is_medical,is_mechanical,is_customer,is_event
+0,691768068385718275,#NB155 is 22 mins late. #Caltrain,155,1,0,0,1,0,0,0,0,0,0,0,0,0
+1,690667494906814464,#NB 151 is running 10 mins behind #Caltrain,151,1,1,0,0,0,0,0,0,0,0,0,0,0
+2,689936168893329408,#NB151 is 10 mins down at San Mateo. #Caltrain,151,1,1,0,0,0,0,0,0,0,0,0,0,0
+3,689509733640732672,#SB138 will board on the northbound platform at BAY. #Caltrain,138,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,689485484838416388,"#SB216 delayed 13 minutes at SAT
+#NB225 delayed 14 minutes at PA
+#NB329 delayed 7 minutes, following 225. 
+#Caltrain",216,1,0,1,0,0,0,0,0,0,0,0,0,0
+5,689485484838416388,"#SB216 delayed 13 minutes at SAT
+#NB225 delayed 14 minutes at PA
+#NB329 delayed 7 minutes, following 225. 
+#Caltrain",225,1,0,1,0,0,1,0,0,0,0,0,0,0
+6,689485484838416388,"#SB216 delayed 13 minutes at SAT
+#NB225 delayed 14 minutes at PA
+#NB329 delayed 7 minutes, following 225. 
+#Caltrain",329,1,1,0,0,0,1,0,0,0,0,0,0,0
+7,689480172769128448,#NB323 reported car on tracks at Charleston Ave. no collision but trains holding through area. #Caltrain,323,1,0,0,0,0,0,0,0,0,0,0,0,0
+8,687805102480965636,#NB371 is currently 11 mins late at Cal Ave. #Caltrain,371,1,0,1,0,0,0,0,0,0,0,0,0,0
+9,687803253799567360,#NB371 will pass &amp; be ahead of 269 at Redwood City. Watch for train number on front. #Caltrain,371,0,0,0,0,0,0,0,1,0,0,0,0,0
+10,687800259230093312,#NB371 will depart San Jose on track 2. #Caltrain,371,0,0,0,0,0,0,0,1,0,0,0,0,0
+11,687798952725352449,#NB269 will depart ahead of 371. #Caltrain,269,0,0,0,0,0,0,0,1,0,0,0,0,0
+12,687295289057624064,#NB217 is 12 mi s late. #NB319 departed SJ ahead of 217. #Caltrain,217,1,0,1,0,0,1,0,0,0,0,0,0,0
+13,687295289057624064,#NB217 is 12 mi s late. #NB319 departed SJ ahead of 217. #Caltrain,319,0,0,0,0,0,0,0,1,0,0,0,0,0
+14,687082156196139008,#SB156 is 10 mins late out of TAM. #Caltrain,156,1,0,1,0,0,0,0,0,0,0,0,0,0
+15,687039767775543296,#SB150 10 mins late @ SUN due to fare evader. #Caltrain,150,1,1,0,0,0,0,0,0,0,0,0,1,0
+16,686953828432752640,#NB323 – 10min late @ SBR. #DoorProblems. #Caltrain,323,1,1,0,0,0,0,0,0,0,0,0,0,0
+17,686753687599841280,"375/277 @ PA
+279 @ MV 86 mins late
+NB366 almost to SF, headed into 22nd St.
+#Caltrain",366,1,0,0,0,0,1,0,0,0,0,0,0,0
+18,686749292250267648,NB366 currently at MIL. #Caltrain,366,1,0,0,0,0,1,0,0,0,0,0,0,0
+19,686744294753828864,"SB273 turned southbound @ SUN.
+375 &amp; 277 coupling at LAW 
+279 holding at SCL, 64 mins late
+NB366 currently at San Carlos.
+#Caltrain",375,1,0,0,0,0,1,0,0,0,0,0,0,0
+20,686744294753828864,"SB273 turned southbound @ SUN.
+375 &amp; 277 coupling at LAW 
+279 holding at SCL, 64 mins late
+NB366 currently at San Carlos.
+#Caltrain",279,1,0,0,0,1,1,0,0,0,0,0,0,0
+20,686744294753828864,"SB273 turned southbound @ SUN.
+375 &amp; 277 coupling at LAW 
+279 holding at SCL, 64 mins late
+NB366 currently at San Carlos.
+#Caltrain",366,1,0,0,0,0,1,0,0,0,0,0,0,0
+20,686744294753828864,"SB273 turned southbound @ SUN.
+375 &amp; 277 coupling at LAW 
+279 holding at SCL, 64 mins late
+NB366 currently at San Carlos.
+#Caltrain",277,1,0,0,0,0,1,0,0,0,0,0,0,0
+21,686733080246108160,#NB375 7 #NB277 coupling at LAW due to crew shortage.,375,1,0,0,0,0,1,0,0,0,0,0,0,0
+22,686733080246108160,#NB375 7 #NB277 coupling at LAW due to crew shortage.,277,1,0,0,0,0,1,0,0,0,0,0,0,0
+23,686731287093096450,"#SB366 is dropping all SB passengers at San Antonio, turning as the JPBX924 northbound &amp; making all local stops. #Caltrain",366,1,0,0,0,0,0,1,0,0,0,0,0,0
+24,686723422584500224,#SB262 Struck vehicle at Mary Ave.  No one reported in vehicle. Transit PD on scene. #Caltrain @SMCSheriff,262,1,0,0,0,1,0,0,0,1,0,0,0,0
+25,686630523163127808,"#SB138 is having door issue. Conductors currently utilizing only 1 car, &amp; 1 door for the PAX to board and detrain, 20 mins late at MPK.",138,1,0,0,1,0,0,0,0,0,0,1,0,0
+26,685593311868878848,#NB151 is 10 mins late. #Caltrain,151,1,1,0,0,0,0,0,0,0,0,0,0,0
+27,685557423113777152,Police removed fare evader.  #NB143 departed HIL 17” late. #Caltrain,143,1,0,1,0,0,0,0,0,0,0,0,1,0
+28,685557002844504065,#SB142 EMS removed PAX.  142 departed SCS 22” late. #Caltrain,142,1,0,0,1,0,0,0,0,0,1,0,0,0
+29,685555085691105280,#SB142 is Holding at SCS due to a medical emergency on board.  EMS on scene. #Caltrain,142,1,0,0,0,0,0,0,0,0,1,0,0,0
+30,685555085691105280,#SB142 is Holding at SCS due to a medical emergency on board.  EMS on scene. #Caltrain,142,1,0,0,0,0,0,0,0,0,1,0,0,0
+31,685555085691105280,#SB142 is Holding at SCS due to a medical emergency on board.  EMS on scene. #Caltrain,142,1,0,0,0,0,0,0,0,0,1,0,0,0
+32,685555085691105280,#SB142 is Holding at SCS due to a medical emergency on board.  EMS on scene. #Caltrain,142,1,0,0,0,0,0,0,0,0,1,0,0,0
+33,684196735107768320,#SB268 is 10 late out of SUN. #Caltrain,268,1,1,0,0,0,0,0,0,0,0,0,0,0
+34,684094621610147840,#NB139 is 13 mins late out of Burlingame. #Caltrain,139,1,0,1,0,0,0,0,0,0,0,0,0,0
+35,681931288505221120,#SB142 is delayed 12 mins at RWC awaiting medical personnel for situation onboard. #Caltrain,142,1,0,1,0,0,0,0,0,0,1,0,0,0
+36,681654564676743168,SB 264 is experiencing a delay due to mechanical issues. #caltraindelays,264,1,0,0,0,0,0,0,0,0,0,1,0,0
+37,679486389453340673,#SB268 10 mins late down leaving LAW. #Caltrain,268,1,0,0,0,0,0,0,0,0,0,0,0,0
+38,678010549586673664,"#SB258 is departing San Carlos now, 20 late. #Caltrain https://t.co/16G4kgWDWM",258,1,0,1,0,0,0,0,0,0,0,0,0,0
+39,677179463868678144,#NB233 is back on the move -20 mins late due to unruly passenger.  #Caltrain @MountainViewPD,233,1,0,0,1,0,0,0,0,0,0,0,1,0
+40,677178271390302208,#NB233 is 21 mins late @ MV due to unruly passenger. @MountainViewPD on scene. #Caltrain,233,1,0,0,1,0,0,0,0,0,0,0,1,0
+41,677175327299264512,#NB233 is holding at MV for an unruly passenger. #Caltrain,233,1,0,0,0,0,0,0,0,0,0,0,1,0
+42,676931727684673537,#NB365 -10min late RWC due to Welfare check PA. #Caltrain,365,1,0,1,0,0,0,0,0,0,1,0,0,0
+43,675525778021289984,NB 287 is delayed due to a vehicle stuck on the tracks near Mission Bay. #Caltrain,287,1,0,0,0,0,0,0,0,1,0,0,0,0
+44,675442683830099968,#NB151 departed SBR -10 mins late. #Caltrain,151,1,0,1,0,0,0,0,0,0,0,0,0,0
+45,675109660169527296,#SB254 – 13 min late LAW. #Caltrain,254,1,0,1,0,0,0,0,0,0,0,0,0,0
+46,674408380635549696,RT @BikesOnCaltrain: #SB276 reported they were at capacity on bikes and standing room only leaving MIL. #Caltrain,276,0,0,0,0,0,0,0,0,0,0,0,0,0
+47,673926641786097665,"#SB134 is holding at BEL for EMS, currently 15 mins delayed. #Caltrain",134,0,0,1,0,0,0,0,0,0,1,0,0,0
+48,673925231744958464,#SB134 will be holding at Belmont to meet EMS for onboard medical emergency. #Caltrain,134,1,0,0,0,0,0,0,0,0,1,0,0,0
+49,673384060673110016,#SB448 is on the move out of Hayward Park after onboard medical emergency. #Caltrain,448,1,0,0,0,0,0,0,0,0,1,0,0,0
+50,673382409379811330,#SB448 is holding at Hayward Park due to medical emergency. #caltrain,448,1,0,0,0,0,0,0,0,0,1,0,0,0
+51,673342234113130496,#NB443 is 13 mins delayed at BUR. #Caltrain,443,1,0,1,0,0,0,0,0,0,0,0,0,0
+52,672980488030580737,#SB386 has been involved in a collision at Castro St in Mountain View. #Caltrain,386,1,0,0,0,0,0,0,0,1,0,0,0,0
+53,672955360236273664,#NB381 will overtake 279 at SCL instead of LAW. #Caltrain,381,1,0,0,0,0,0,0,1,0,0,0,0,0
+54,672951005223358464,#Nb375 will depart SJ ahead of 277. #Caltrain,375,1,0,0,0,0,0,0,1,0,0,0,0,0
+55,672935485593915392,"#SB156 is attempting to reboot at Cal Ave, stopped, 11 mins delayed &amp; counting. #Caltrain",156,1,0,1,0,0,0,0,0,0,0,0,0,0
+56,672899720470134784,#NB151 is 11 mins delayed at RWC. #Caltrain,151,1,0,1,0,0,0,0,0,0,0,0,0,0
+57,672813274136752128,#NB323 will overtake 221 at MIL.  221 is currently 16 mins late into HIL.  #Caltrain,323,1,0,1,0,0,0,0,1,0,0,0,0,0
+58,672798159689539586,.@VTA honoring Caltrain tickets from GIL to SJ. #Caltrain #NB217,217,0,0,0,0,0,0,0,0,0,0,0,0,0
+59,672786792542638080,"Due to mechanical problems, NB 217 and 221 will be combined out of Gilroy. #Caltrain",217,1,0,0,0,0,0,1,0,0,0,1,0,0
+60,672567058131881985,#SB254 -10 min slate @ LAW. #Caltrain,254,1,0,1,0,0,0,0,0,0,0,0,0,0
+61,672237226944696320,Passenger removed by EMS from #NB375. Train on the go. #Caltrain,375,1,0,0,0,0,0,0,0,0,1,0,0,0
+62,672237036493889536,#NB375 -12 mins late departing RWC due to a medical emergency.,375,1,0,1,0,0,0,0,0,0,1,0,0,0
+63,672143440218423296,"#SB142 will board on the northbound track at BEL, SCS, and RWC.  Currently 13 mins delayed at HIL.  #Caltrain",142,1,0,1,0,0,0,0,0,0,0,0,0,0
+64,672136181862162432,"#SB142 will board on the northbound track at BEL, SCS, and RWC due to mechanical failure on the 138. #Caltrain",142,1,0,0,0,0,0,0,0,0,0,1,0,0
+65,672133796309831680,".@SamTrans_News is honoring Caltrain tickets for the #SB138 stall @ Belmont. Route ECR runs along El Camino every 15 minutes to RWC, PA.",138,0,0,0,0,0,0,0,0,0,0,0,0,0
+66,672131010629206016,"#SB138 currently 17 mins delayed into BEL, due to mech issue. #Caltrain",138,1,0,1,0,0,0,0,0,0,0,1,0,0
+67,671796409230749697,"#NB147 is 10 mins delayed out of RWC. Also, no lights or A/C. #Caltrain",147,1,0,1,0,0,0,0,0,0,0,0,0,0
+68,671757356204617729,#NB135 is 10 mins delayed @ BUR. #Caltrain,135,1,0,1,0,0,0,0,0,0,0,0,0,0
+69,671713520472350721,#NB227 Holding near San Martin due to big rig stuck on tracks. #Caltrain,227,1,0,0,0,0,0,0,0,1,0,0,0,0
+70,671395851244179456,"#NB233-Terminated at SMT
+#NB135- At MIL, delayed 9 mins. #Caltrain",233,1,1,0,0,0,0,1,0,0,0,0,0,0
+71,671395851244179456,"#NB233-Terminated at SMT
+#NB135- At MIL, delayed 9 mins. #Caltrain",135,1,1,0,0,0,0,0,0,0,0,0,0,0
+72,671389838826856448,#NB135 will pick up 233s passengers at San Mateo SB platform. #Caltrain,135,0,0,0,0,0,0,0,0,0,0,0,0,0
+73,671388146332864512,#NB233 is stalled at San Mateo due to mechanical issue. 21 mins delayed &amp; counting. #Caltrain,233,1,0,0,1,0,0,0,0,0,0,0,0,0
+74,669640169469796352,#NB151 -11 mins late en route to SMT. #Caltrain,151,1,0,1,0,0,0,0,0,0,0,0,0,0
+75,669580540907917312,#NB135 departed RWC 16 mins delayed due to mech issue &amp; a passenger pulled emergency door pull at RWC. #Caltrain,135,1,0,1,0,0,0,0,0,0,0,1,1,0
+76,668991444787458048,"#SB274 to Gilroy will originate on SJ, Track 2.  7:50 to 8:00 estimated time of departure. #Caltrain",274,1,0,0,0,0,0,0,0,0,0,0,0,0
+77,668981350980972544,We are single tracking around #SB274. #Caltrain,274,0,0,0,0,0,0,0,1,0,0,0,0,0
+78,668975965377159168,#SB274 is troubleshooting at San Bruno. Mechanical en route. #Caltrain,274,1,0,0,0,0,0,0,0,0,0,1,0,0
+79,668926324073824256,Trains are clear to proceed.  #NB155 ~14 mins late departing CAL.  #Caltrain,155,1,0,1,0,0,0,0,0,0,0,0,0,0
+80,668925018450075650,"#NB155 is holding as near San Antonio, per police request. Currently 10 mins delayed &amp; counting. #Caltrain",155,1,1,0,0,0,0,0,0,0,0,0,0,0
+81,666454763223953408,#NB283 will be next departure from SanJose on track 4. #Caltrain,283,0,0,0,0,0,0,0,0,0,0,0,0,0
+82,666453536776024064,NB279/77 has just departed San Jose. #Caltrain https://t.co/dSk3et7eW5,279,0,0,0,0,0,0,0,0,0,0,0,0,0
+83,666450581255405568,#NB277 &amp; subsequent trains still holding at SJ. #Caltrain,277,0,0,0,0,0,0,0,0,0,0,0,0,0
+84,666443747782103041,#SB262 is on the go south out of Sunnyvale. #Caltrain,262,0,0,0,0,0,0,0,0,0,0,0,0,0
+85,666429968130273280,#NB375 has now been involved in a pedestrian incident at #SantaClara. #Caltrain,375,1,0,0,0,0,0,0,0,1,1,0,0,0
+86,666423313451761665,#Nb371 has been involved in a trespasser incident at San Antonio. Expect delays. #Caltrain,371,1,0,0,0,0,0,0,0,1,1,0,0,0
+87,666397169365061632,"#SB254 -10 mins late @ BEL due single tracking, slow order. #Caltrain",254,1,1,0,0,0,0,0,0,0,0,0,0,0
+88,665292687944192000,#NB151-10 mins late @ BUR. #Caltrain,151,1,1,0,0,0,0,0,0,0,0,0,0,0
+89,664911353346330624,"#SB146 delayed 41 minutes, arriving SUN.
+#NB147 delayed 35 minutes, arriving MV.
+#Caltrain",146,1,0,0,0,1,1,0,0,0,0,0,0,0
+90,664911353346330624,"#SB146 delayed 41 minutes, arriving SUN.
+#NB147 delayed 35 minutes, arriving MV.
+#Caltrain",147,1,0,0,1,0,1,0,0,0,0,0,0,0
+91,664910374064381952,"#NB147 &amp; #SB146 have been released, we will protect the crossing (move slowly) until it is repaired. #Caltrain",147,1,0,0,0,0,0,0,0,0,0,0,0,0
+92,664910374064381952,"#NB147 &amp; #SB146 have been released, we will protect the crossing (move slowly) until it is repaired. #Caltrain",146,1,0,0,0,0,0,0,0,0,0,0,0,0
+93,664909358292078592,"#SB146 holding at MVW, delayed 34 minutes
+#NB147 holding at SUN, delayed 28 minutes
+#Caltrain",146,1,0,0,1,0,0,0,0,0,0,0,0,0
+94,664909358292078592,"#SB146 holding at MVW, delayed 34 minutes
+#NB147 holding at SUN, delayed 28 minutes
+#Caltrain",147,1,0,0,1,0,0,0,0,0,0,0,0,0
+95,664263059184091136,#SB268 -11 mins late @ SAT due to following delayed train. #Caltrain,268,1,0,1,0,0,1,0,0,0,0,0,0,0
+96,664260229245243392,#SB264 -11 mins late @ MV due to PNA lift trouble. #Caltrain,264,1,0,1,0,0,0,0,0,0,0,1,0,0
+97,664226169726722048,"#SB254 -18 mins late @ RWC
+#NB155 -15"" @ MIL
+#Caltrain",254,1,0,1,0,0,0,0,0,0,0,0,0,0
+98,664226169726722048,"#SB254 -18 mins late @ RWC
+#NB155 -15"" @ MIL
+#Caltrain",155,1,0,1,0,0,0,0,0,0,0,0,0,0
+99,664219740315893760,#NB155 -16 mins late @ BEL. #Caltrain,155,1,0,1,0,0,0,0,0,0,0,0,0,0
+100,664211266580320256,#NB155 -13 mins late out of Santa Clara due to mechanical trouble. #Caltrain,155,1,0,1,0,0,0,0,0,0,0,1,0,0
+101,663813585383002112,#SB146 got out of SF 9 mins late. On the move at 22nd. #Caltrain,146,1,1,0,0,0,0,0,0,0,0,0,0,0
+102,662706656657014784,#NB139 delayed 10 mins due to mechanical issue at CAL. #Caltrain @jonemo,139,1,1,0,0,0,0,0,0,0,0,1,0,0
+103,662411418289860608,#SB154 is 10 mins late @ RWC. #Caltrain,154,1,1,0,0,0,0,0,0,0,0,0,0,0
+104,662048934982905856,#SB254 -10 mins late due to single tracking. #Caltrain,254,1,1,0,0,0,0,0,0,0,0,0,0,0
+105,662038242301112321,#NB151 -10 mins delayed. #Caltrain,151,1,1,0,0,0,0,0,0,0,0,0,0,0
+106,661732421818126337,#SB278 -14 mins late departing MIL due to unruly passenger. #Caltrain,278,1,0,1,0,0,0,0,0,0,0,0,1,0
+107,661604623111753728,"#SB332 experienced a door problem at PA, currently -10 mins late approaching LAW. #Caltrain",332,1,1,0,0,0,0,0,0,0,0,1,0,0
+108,661289955189223429,#SB146 has departed San Carlos 14 mins delayed. Tracks clear. #Caltrain @SMCSheriff,146,1,0,1,0,0,0,0,0,0,0,0,0,0
+109,661286355511717888,#SB146 holding at San Carlos for police action on the tracks. #Caltrain,146,1,0,0,0,0,0,0,0,1,0,0,0,0
+110,661244063576788992,#NB135 is currently departing CAL -24 mins late &amp; will drop all passengers at MPK. 237 will accommodate 135's passengers. #Caltrain,135,1,0,0,1,0,0,0,0,0,0,0,0,0
+111,661240249868161028,"#NB135 will move to Menlo Park, drop all passengers &amp; clear to siding. #Caltrain",135,0,0,0,0,0,0,0,0,0,0,0,0,0
+112,661236997864845312,"#NB135 is currently troubleshooting engine trouble at LAW, -11 mins delayed. #Caltrain",135,1,0,1,0,0,0,0,0,0,0,1,0,0
+113,660224578250108928,#SB152 is -10 mins late departing LAW due to Quint St slow order. #Caltrain,152,1,1,0,0,0,0,0,0,0,0,0,0,0
+114,659164398548684801,#NB267 -10 mins late. #Caltrain,267,1,1,0,0,0,0,0,0,0,0,0,0,0
+115,659141201694605312,"#SB254 -16 mins delayed out of San Antonio due to slow order, single tracking. #Caltrain",254,1,0,1,0,0,0,0,0,0,0,0,0,0
+116,659133205547630592,#NB155 is 11 mins delayed out of San Mateo. #Caltrain,155,1,0,1,0,0,0,0,0,0,0,0,0,0
+117,659049770313494528,#NB233 thru #NB155 will board on the Northbound platforms at SMT and BUR becuz of SMT Bridge project. #Caltrain,233,0,0,0,0,0,0,0,0,0,0,0,0,0
+118,659049770313494528,#NB233 thru #NB155 will board on the Northbound platforms at SMT and BUR becuz of SMT Bridge project. #Caltrain,155,0,0,0,0,0,0,0,0,0,0,0,0,0
+119,657669978729095168,#NB151 -10 mins late @ MIL. #Caltrain,151,1,1,0,0,0,0,0,0,0,0,0,0,0
+120,657378338906832896,#NB385 -10 mins delayed. #Caltrain,385,1,1,0,0,0,0,0,0,0,0,0,0,0
+121,657376963661799424,#SB284 is 12 mins late out of SSF. #Caltrain,284,1,1,0,0,0,0,0,0,0,0,0,0,0
+122,657371422122074112,"#SB284 is delayed at SF, 386 will depart on time ahead of 284. #Caltrain",284,1,0,0,0,0,0,0,1,0,0,0,0,0
+123,657330843380260866,#SB254 -13 mins late out of MV. #Caltrain,254,1,0,1,0,0,0,0,0,0,0,0,0,0
+124,657325618820960261,#SB152 -11 mins late. #Caltrain,152,1,0,1,0,0,0,0,0,0,0,0,0,0
+125,656545904783060992,#NB143 currently 11 mins late into RWC. #Caltrain,143,1,0,1,0,0,0,0,0,0,0,0,0,0
+126,655169307115057152,#SB156 -10 mins late @ SCL. #Caltrain,156,1,0,1,0,0,0,0,0,0,0,0,0,0
+127,655137099138527232,#SB150 -10 mins late. #Caltrain,150,1,1,0,0,0,0,0,0,0,0,0,0,0
+128,655130257775722496,#NB151 -16 mins late @ HIL due to unruly passenger. #Caltrain,151,1,0,1,0,0,0,0,0,0,0,0,1,0
+129,654806122470047744,#NB267 -12 mins late departing SJ due to Switch issue. #Caltrain,267,1,0,1,0,0,0,0,0,0,0,1,0,0
+130,654804479577993216,#NB365 -14” due to switch issue. #Caltrain,365,1,0,1,0,0,0,0,0,0,0,0,0,0
+131,654780583520813056,#SB254 -14 mins late due to single tracking. #Caltrain,254,1,0,1,0,0,0,0,0,0,0,0,0,0
+132,654776629449723905,#NB151 -14 mins late. #Caltrain,151,1,0,1,0,0,0,0,0,0,0,0,0,0
+133,654474906319482880,#NB381 has passed the stall.  #SB380 and #SB282 on the move South past stall. #Caltrain,381,1,0,0,0,0,0,0,1,0,0,0,0,0
+134,654474906319482880,#NB381 has passed the stall.  #SB380 and #SB282 on the move South past stall. #Caltrain,380,1,0,0,0,0,0,0,1,0,0,0,0,0
+135,654474906319482880,#NB381 has passed the stall.  #SB380 and #SB282 on the move South past stall. #Caltrain,282,1,0,0,0,0,0,0,1,0,0,0,0,0
+136,654468861345968128,#NB277 will single-track around  stalled train. #Caltrain,277,1,0,0,0,0,0,0,1,0,0,0,0,0
+137,654466381241454592,"#NB273 -18 mins late, stopped near MIL. Crew is currently troubleshooting. 375 delayed behind. #Caltrain",273,1,0,1,0,0,0,0,0,0,0,1,0,0
+138,654425167519612928,#NB257 is -10 mins late en route to HIL due to heavy ridership. #Caltrain,257,1,1,0,0,0,0,0,0,0,0,0,1,0
+139,654408552912547840,#NB151 is arriving @ SBR -10 mins late. #Caltrain,151,1,1,0,0,0,0,0,0,0,0,0,0,0
+140,654118034093662210,#SB274 just arriving at Mountain View. #Caltrain,274,1,0,0,0,0,0,0,0,0,0,0,0,0
+141,654111516560527360,"#SB274 is out of San Carlos now, into RWC. #Caltrain",274,1,0,0,0,0,0,0,0,0,0,0,0,0
+142,654103695093686276,"263 -50” into 22nd (will be SB278)
+262  --47” en route to SJ
+366 -45” SUN
+264 -60” HIL
+365 -56” BAY (will be SB380)
+#Caltrain",278,1,0,0,0,1,0,0,0,0,0,0,0,0
+142,654103695093686276,"263 -50” into 22nd (will be SB278)
+262  --47” en route to SJ
+366 -45” SUN
+264 -60” HIL
+365 -56” BAY (will be SB380)
+#Caltrain",262,1,0,0,0,1,0,0,0,0,0,0,0,0
+142,654103695093686276,"263 -50” into 22nd (will be SB278)
+262  --47” en route to SJ
+366 -45” SUN
+264 -60” HIL
+365 -56” BAY (will be SB380)
+#Caltrain",366,1,0,0,0,1,0,0,0,0,0,0,0,0
+142,654103695093686276,"263 -50” into 22nd (will be SB278)
+262  --47” en route to SJ
+366 -45” SUN
+264 -60” HIL
+365 -56” BAY (will be SB380)
+#Caltrain",264,1,0,0,0,1,0,0,0,0,0,0,0,0
+143,654103695093686276,"263 -50” into 22nd (will be SB278)
+262  --47” en route to SJ
+366 -45” SUN
+264 -60” HIL
+365 -56” BAY (will be SB380)
+#Caltrain",380,1,0,0,0,1,0,0,0,0,0,0,0,0
+144,654097977678557184,Looks like 262 will turn to NB385 &amp; 366 will become NB287. No combo or cancels. #Caltrain,385,0,0,0,0,0,0,1,0,0,0,0,0,0
+145,654097977678557184,Looks like 262 will turn to NB385 &amp; 366 will become NB287. No combo or cancels. #Caltrain,287,0,0,0,0,0,0,1,0,0,0,0,0,0
+146,654089827072081920,#SB274 (Only #Gilroy train) will be next out of San Francisco. 72 &amp; 70 have already departed. #Caltrain,274,0,0,0,0,0,0,0,0,0,0,0,0,0
+147,654083503429017600,"#SB268 is cancelled, passengers will be accommodated by 274 departing on 274 regular schedule. #Caltrain",268,1,0,0,0,0,0,1,0,0,0,0,0,0
+148,654080145825796097,#NB261 was just involved in a pedestrian incident at San Mateo Station. Expect delays. #Caltrain,261,1,0,0,0,0,0,0,0,1,0,0,0,0
+149,654055177708695553,#SB254 departed SBR -10 mins late due to single tracking at 22nd. #Caltrain,254,1,1,0,0,0,0,0,0,0,0,0,0,0
+150,653988922138095616,#SB134 13 mins late out of MV. #Caltrain,134,1,0,1,0,0,0,0,0,0,0,0,0,0
+151,653607755639451648,226 coupled to 324. #SB324 terminated.  226 combining stops with 324.  On the move south. #Caltrain,324,1,0,0,0,0,0,1,0,0,0,0,0,0
+152,653603579136118784,#SB324 and #SB226 are connected and preparing to move. #Caltrain,324,0,0,0,0,0,0,0,0,0,0,0,0,0
+153,653603579136118784,#SB324 and #SB226 are connected and preparing to move. #Caltrain,226,0,0,0,0,0,0,0,0,0,0,0,0,0
+154,653600865522094082,#SB324 will couple with 226. 228 will pass. #Caltrain,324,0,0,0,0,0,0,0,0,0,0,0,0,0
+155,653599875326603264,#SB324 is stalled. We are working to troubleshoot the issue. May Cause delays. #Caltrain,324,1,0,0,0,0,0,0,0,0,0,1,0,0
+156,652885627390656512,#NB423 has been cancelled due to the incident in Santa Clara.  All other trains are operating on time.,423,1,0,0,0,0,0,1,0,0,0,0,0,0
+157,652877934517063680,There are three tracks through the Santa Clara Station.  Two have been cleared for operations at restricted speeds. #NB423,423,0,0,0,0,0,0,0,0,0,0,0,0,0
+158,652872745819111424,Passengers on #NB423 will board #NB425 on the Southbound platform.,423,0,0,0,0,0,0,0,0,0,0,0,0,0
+159,652872745819111424,Passengers on #NB423 will board #NB425 on the Southbound platform.,425,0,0,0,0,0,0,0,0,0,0,0,0,0
+160,652865965898657792,Caltrain #NB423 is stopped due to an emergency incident at the Santa Clara Station.,423,1,0,0,0,0,0,0,0,1,0,0,0,0
+161,652613306692210688,#SB254 is 10 mins late out of RWC due to single tracking. #Caltrain,254,1,1,0,0,0,0,0,0,0,0,0,0,0
+162,652550831330344961,#SB138 -11 mins late into Palo Alto due to door issue at SF. #Caltrain,138,1,0,1,0,0,0,0,0,0,0,0,0,0
+163,652535366927290368,#SB138 had door issue at SF.  Departed SF -7 mins late. #Caltrain,138,1,1,0,0,0,0,0,0,0,0,1,0,0
+164,652273598980222976,#SB156 Currently -12 mins late after getting past switch issue. En route to Gilroy. #Caltrain,156,1,0,1,0,0,0,0,0,0,0,1,0,0
+165,652272089278230528,"#SB156 will incur a delay to Capitol due to switch malfunction, manual switching. #Caltrain",156,1,0,0,0,0,0,0,0,0,0,1,0,0
+166,652251191867478017,#SB152 is -10 mins late @ LAW due to heavy ridership. #Caltrain,152,1,1,0,0,0,0,0,0,0,0,0,1,0
+167,652162926875246593,#NB135 thru 155 will board on the southbound platforms at SMT and BUR due to SMT Bridge project.  #Caltrain,135,0,0,0,0,0,0,0,0,0,0,0,0,0
+168,652016077006737408,BART will hold for #NB199 passengers at Millbrae.,199,0,0,0,0,0,0,0,0,0,0,0,0,0
+169,652015079878078464,"#NB197 dropping pax at Burlingame
+No. 196 -50” MILLBRAE.  Will proceed SBD after 199
+Bart will hold last train for No. 199 PAX",197,1,0,0,0,1,0,0,0,0,0,0,0,0
+170,652014454775803904,#SB198 will depart on time.,198,0,0,0,0,0,0,0,0,0,0,0,0,0
+171,652012213155160064,Passengers from #NB197 will be offloaded at Burlingame and picked up by 199.  Incident train will be taken out of service.,197,0,0,0,0,0,0,0,0,0,0,0,0,0
+172,652008918722285569,#NB197 is experiencing major mechanical issues due to the vehicle strike.  Mechanics attempting to get train moving.,197,1,0,0,0,0,0,0,0,1,0,1,0,0
+173,652006281885040640,Transit Police have released #NB197 final preparations are being made to move the train.,197,-,0,0,0,0,0,0,0,0,0,0,0,0
+174,652005313453801472,#SB196 is delayed 10 minutes as we wait for the Southbound tracks to be cleared of the vehicle.,196,1,1,0,0,0,0,0,0,1,0,0,0,0
+175,652003565947367424,Both tracks are blocked due to vehicle incident.  #NB197 is blocking the Northbound track.  The vehicle wreckage is blocking Southbound.,197,1,0,0,0,0,0,0,0,1,0,0,0,0
+176,651996755311988736,#NB197 struck a vehicle at Bayswater Ave. No injuries reported.,197,1,0,0,0,0,0,0,0,1,0,0,0,0
+177,651903395188604928,RT @WittedUseless: Happy birthday Conductor Steve!! #SB262 @Caltrain_News,262,0,0,0,0,0,0,0,0,0,0,0,0,0
+178,651885926721818624,#NB155 on the move -11 mins late due to medical incident at HIL. #Caltrain,155,1,0,1,0,0,0,0,0,0,1,0,0,0
+179,651868473686028288,#NB151 is -10 mins late into SM due to heavy ridership. #Caltrain,151,1,1,0,0,0,0,0,0,0,0,0,1,0
+180,651802509825175553,#NB135 thru #NB155 will board on the southbound platforms at SMT and BUR due to Bridge project. #Caltrain,135,0,0,0,0,0,0,0,0,0,0,0,0,0
+181,651802509825175553,#NB135 thru #NB155 will board on the southbound platforms at SMT and BUR due to Bridge project. #Caltrain,155,0,0,0,0,0,0,0,0,0,0,0,0,0
+182,651614812112220160,"Two trains remain delayed as a result of the earlier trespasser incident. #SB190 is 40"" late and #NB193 is 28"" late #Caltrain",190,1,0,0,0,1,1,0,0,0,0,0,1,0
+183,651614812112220160,"Two trains remain delayed as a result of the earlier trespasser incident. #SB190 is 40"" late and #NB193 is 28"" late #Caltrain",193,1,0,0,1,0,1,0,0,0,0,0,1,0
+184,651607663621464064,Both tracks reopened. Trains operating in both directions. As of SB192 and SB195 we will resume normal sched.,192,0,0,0,0,0,0,0,0,0,0,0,0,0
+185,651607663621464064,Both tracks reopened. Trains operating in both directions. As of SB192 and SB195 we will resume normal sched.,195,0,0,0,0,0,0,0,0,0,0,0,0,0
+186,651604113449324544,NB191 still another 15 minutes out from Millbrae.,191,1,0,1,0,0,0,0,0,0,0,0,0,0
+187,651600289020051456,#NB191 will be next Northbound train       through Buingame in about 15 minutes.,191,1,0,1,0,0,0,0,0,0,0,0,0,0
+188,651596965776486406,#NB190 will come in on the Southbound track. Please board on the SB platform,190,0,0,0,0,0,0,0,0,0,0,0,0,0
+189,651595035083849728,Passengers at Burlingame and San Mateo will board on the Northbound platform. #SB284,284,0,0,0,0,0,0,0,0,0,0,0,0,0
+190,651593856228560896,#NB287 and #289 will be the first northbound trains through the affected area.,287,0,0,0,0,0,0,0,0,0,0,0,0,0
+191,651592925302820865,We are cleared to operate on the northbound track. Single tracking will begin after #SB284 is moved.,284,1,0,0,0,0,0,0,0,0,0,0,0,0
+192,651592734721990656,#SB284 is moving to Burlingame. 190 will pick up its passengers.,284,0,0,0,0,0,0,0,0,0,0,0,0,0
+193,651586788620808192,"SB284 terminated, SB288 terminated @ MIL, NB287 10"" late, NB385 stopped @ Burlingame #Caltrain",284,1,0,0,0,0,0,0,0,0,0,0,0,0
+194,651586788620808192,"SB284 terminated, SB288 terminated @ MIL, NB287 10"" late, NB385 stopped @ Burlingame #Caltrain",288,1,0,0,0,0,0,0,0,0,0,0,0,0
+195,651586788620808192,"SB284 terminated, SB288 terminated @ MIL, NB287 10"" late, NB385 stopped @ Burlingame #Caltrain",287,1,0,0,0,0,0,0,0,0,0,0,0,0
+196,651586788620808192,"SB284 terminated, SB288 terminated @ MIL, NB287 10"" late, NB385 stopped @ Burlingame #Caltrain",385,1,0,0,0,0,0,0,0,0,0,0,0,0
+197,651586095717617665,Scene will not be cleared until coroner arrives. We have confirmed it is a fatality. #SB284,284,1,0,0,0,1,0,0,0,1,0,0,0,0
+198,651579941780193281,#SB284 has been involved in a trespasser incident near the Broadway station in Burlingame. Trains in both directions will hold.,284,1,0,0,0,1,0,0,0,1,0,0,0,0
+199,651562206006382593,"RT @scalawag: Also Gallery 5-car now ""@Caltrain_News: #NB273 departed PA -11 mins late due to late departure from SJ (mechanical issues/swa…",273,1,0,1,0,0,0,0,0,0,0,1,0,0
+200,651557191837618176,#NB273 departed PA -11 mins late due to late departure from SJ (mechanical issues/swap). #Caltrain,273,1,0,1,0,0,0,0,0,0,0,1,0,0
+201,651555054609018880,#NB273 got out of SJ about 9 mins late. #Caltrain,273,1,1,0,0,0,0,0,0,0,0,0,0,0
+202,651546661106286594,#SB360 departed PA standing room only. #Caltrain,360,0,0,0,0,0,0,0,0,0,0,0,0,0
+203,651441034711330816,#NB233 is 12 mins late @ BUR due to single tracking. #Caltrain,233,1,0,1,0,0,0,0,0,0,0,0,0,0
+204,649750101221490688,#SB272/370 just departed San Carlos. #Caltrain,272,0,0,0,0,0,0,0,0,0,0,0,0,0
+205,649748332068233217,#SB272/370 is on time by 272 schedule. Due at San Carlos in 4 mins. #Caltrain,272,1,1,0,0,0,0,0,0,0,0,0,0,0
+206,649747930870484992,#NB375 departed SJ 23 mins late due to late turn and equipment issues. #Caltrain,375,1,0,0,1,0,0,0,0,0,0,1,0,0
+207,649745568105787392,#SB274 will depart roughly 25 – 30 minutes late due to a late turn from 261. #Caltrain,274,1,0,0,1,0,0,0,0,0,0,0,0,0
+208,649744506707775489,#NB277 is departing ahead of 375 at SJ due to an equipment issue.  #NB375 will depart SJ late on Track 4. #Caltrain,277,1,0,0,0,0,0,0,1,0,0,1,0,0
+209,649744506707775489,#NB277 is departing ahead of 375 at SJ due to an equipment issue.  #NB375 will depart SJ late on Track 4. #Caltrain,375,1,0,0,0,0,0,0,1,0,0,1,0,0
+210,649737154260692992,#SB272 &amp; 370 will be a combo due to 159's crew being taken out of service. #Caltrain,272,0,0,0,0,0,0,0,0,0,0,0,0,0
+211,649735197408129024,#NB159 crew is air testing equip &amp; waiting for the 'go.' #Caltrain,159,0,0,0,0,0,0,0,0,0,0,0,0,0
+212,649734646515658753,#SB360 will be released first followed by Northbound 261 &amp; 263. 261 will accommodate the passengers from the incident train 159. #Caltrain,360,1,0,0,0,0,0,0,0,0,0,0,0,0
+213,649730884631789569,"#NB159 will move to station shortly. No damage to crossing gate, vehicle has fled scene. #Caltrain",159,1,0,0,0,0,0,0,0,1,0,0,0,0
+214,649729608636469249,"#SB360 is holding at MIL.   
+#SB262 is holding at SBR.
+#Caltrain",360,1,0,0,0,0,1,0,0,0,0,0,0,0
+215,649729608636469249,"#SB360 is holding at MIL.   
+#SB262 is holding at SBR.
+#Caltrain",360,1,0,0,0,0,1,0,0,0,0,0,0,0
+216,649729608636469249,"#SB360 is holding at MIL.   
+#SB262 is holding at SBR.
+#Caltrain",262,1,0,0,0,0,1,0,0,0,0,0,0,0
+217,649729608636469249,"#SB360 is holding at MIL.   
+#SB262 is holding at SBR.
+#Caltrain",262,1,0,0,0,0,1,0,0,0,0,0,0,0
+218,649729608636469249,"#SB360 is holding at MIL.   
+#SB262 is holding at SBR.
+#Caltrain",360,1,0,0,0,0,1,0,0,0,0,0,0,0
+219,649729608636469249,"#SB360 is holding at MIL.   
+#SB262 is holding at SBR.
+#Caltrain",360,1,0,0,0,0,1,0,0,0,0,0,0,0
+220,649729608636469249,"#SB360 is holding at MIL.   
+#SB262 is holding at SBR.
+#Caltrain",262,1,0,0,0,0,1,0,0,0,0,0,0,0
+221,649729608636469249,"#SB360 is holding at MIL.   
+#SB262 is holding at SBR.
+#Caltrain",262,1,0,0,0,0,1,0,0,0,0,0,0,0
+222,649726981399965696,"#NB159 reported striking a vehicle at Broadway Avenue in Burlingame. Expect delays, seek alternate transit. #Caltrain",159,1,0,0,0,0,0,0,0,1,0,0,0,0
+223,649679868867710976,#NB147 is delayed 10 minutes into BUR due to door issues. #Caltrain,147,1,1,0,0,0,0,0,0,0,0,1,0,0
+224,649666491281870848,#NB143 delayed 11 minutes @ MIL. #Caltrain,143,1,0,1,0,0,0,0,0,0,0,0,0,0
+225,649633839543791616,#NB237 and Baseball Special S01 will board on the southbound platform at SBR due to PTC Project. #Caltrain,237,0,0,0,0,0,0,0,0,0,0,0,0,0
+226,649630493890121729,#NB233 is 10 mins late due to heavy crowds. #Caltrain,233,1,1,0,0,0,0,0,0,0,0,0,1,0
+227,649625550919626752,#NB233 thru 155 will board on the southbound platforms at SMT and BUR due to Bridge project. #Caltrain,233,0,0,0,0,0,0,0,0,0,0,0,0,0
+228,649614113706905600,#NB323 departed MIL 16 mins late due to medical incident. #Caltrain,323,1,0,1,0,0,0,0,0,0,1,0,0,0
+229,649341147899404288,#SB156 will board @ BAY on the NB platform due to ballast relocation project.  #Caltrain,156,0,0,0,0,0,0,0,0,0,0,0,0,0
+230,649314150598881280,#SB146 is 12 mins late out of Belmont. #Caltrain,146,1,0,1,0,0,0,0,0,0,0,0,0,0
+231,649269064154660864,#NB135 is delayed 10 minutes at RWC. #Caltrain,135,1,1,0,0,0,0,0,0,0,0,0,0,0
+232,649265974940684288,#NB233 is 10 mins late arriving BUR. #Caltrain,233,1,1,0,0,0,0,0,0,0,0,0,0,0
+233,649038360854421504,#SB376 -10 mins late departing SJ. #Caltrain,376,1,1,0,0,0,0,0,0,0,0,0,0,0
+234,649036507177619456,#NB277 -12 mins late departing MIL due to Giants game and following delayed train. #Caltrain,277,1,0,1,0,0,0,0,0,0,0,0,0,1
+235,649035931572285440,"#NB375 -18 mins late departing MIL due to passenger injury, heavy ridership. #Caltrain",375,1,0,1,0,0,0,0,0,0,1,0,1,0
+236,649009468013842432,#NB365 reported standing room only departing PA. #SFGiants #Caltrain,365,0,0,0,0,0,0,0,0,0,0,0,0,0
+237,648546745631137792,#NB135 is currently -12” approaching HIL due to heavy ridership. #Caltrain,135,1,0,1,0,0,0,0,0,0,0,0,1,0
+238,647650819240624129,Executive Director issues apology following tonight's incident.  http://t.co/Z3AhhlQKn4  #Caltrain #Apology #NB371,371,0,0,0,0,0,0,0,0,0,0,0,0,0
+239,647610922622578690,#NB193 departed SJ -43 mis late. All trains sticking to scheduled stops now. #Caltrain,193,1,0,0,0,1,0,0,0,0,0,0,0,0
+240,647605423852253184,#NB283 will stop at Broadway to collect remaining passengers. #Caltrain,283,0,0,0,0,0,0,0,0,0,0,0,0,0
+241,647605335100755968,#SB274 will stop at Broadway for Southbound passengers. #Caltrain,274,0,0,0,0,0,0,0,0,0,0,0,0,0
+242,647604719343415297,#SB274 will head South through Broadway shortly. #Caltrain,274,0,0,0,0,0,0,0,0,0,0,0,0,0
+243,647599045595103232,"191 will be annulled. 193 will be the SB269. Will head to Tamien, then back North as 193. #Caltrain",269,0,0,0,0,0,0,0,0,0,0,0,0,0
+244,647571383325581312,#NB317 struck a vehicle on the tracks at Broadway Ave in #Burlingame. Crews are responding to the scene.  #Caltrain,317,1,0,0,0,0,0,0,0,1,0,0,0,0
+245,647570375048495104,#NB371 has struck a vehicle on the tracks. Expect delays. #Caltrain,371,1,0,0,0,0,0,0,0,1,0,0,0,0
+246,647554606940028932,#NB261 departed RWC standing room only. #Caltrain,261,0,0,0,0,0,0,0,0,0,0,0,0,0
+247,647523107528249344,#NB151 departed MIL -10 mins late. #Caltrain,151,1,1,0,0,0,0,0,0,0,0,0,0,0
+248,647454046240923648,#NB135 thru 155 will board on the southbound platforms at San Mateo &amp; Burlingame due to Bridge project. #Caltrain,135,0,0,0,0,0,0,0,0,0,0,0,0,0
+249,647447295722582017,#NB231 is 20 mins late due to earlier trespasser incident. #Caltrain,231,1,0,1,0,0,0,0,0,0,0,0,1,0
+250,647439467356098560,#NB231 and #SB322 are holding at the request of Palo Alto be due to a possible person on the tracks.,231,1,0,0,0,0,0,0,0,0,0,0,1,0
+251,647439467356098560,#NB231 and #SB322 are holding at the request of Palo Alto be due to a possible person on the tracks.,322,1,0,0,0,0,0,0,0,0,0,0,1,0
+252,647438131247976448,#NB231 is holding at San Antonio due to police activity near Cal Ave. #Caltrain,231,1,1,0,0,0,0,0,0,1,0,0,0,0
+253,647151976166199297,#SB150 is 10 mins late out of San Mateo because someone released the emergency stop valve. #Caltrain,150,1,1,0,0,0,0,0,0,0,0,0,1,0
+254,647142329044746240,#SB146 is 10 mins late out of Menlo Park. #Caltrain,146,1,1,0,0,0,0,0,0,0,0,0,0,0
+255,647089377999360000,#NB135 thru 155 will board on the southbound platforms at SMT and BUR due to Bridge project. #Caltrain,135,0,0,0,0,0,0,0,0,0,0,0,0,0
+256,646814248224428032,#NB155 -10 mins late out of Burlingame. #Caltrain,155,1,1,0,0,0,0,0,0,0,0,0,0,0
+257,646720075999784960,#NB135 will hold at Diridon until 231/33 combo departs (track 3). #Caltrain,135,1,0,0,0,0,1,0,1,0,0,0,0,0
+258,646719505939324929,"#NB231/233 to depart Diridon in approx 10 mins, on track 3. #NB135 will hold at Diridon. #Caltrain",231,1,0,0,0,0,1,0,1,0,0,0,0,0
+259,646719505939324929,"#NB231/233 to depart Diridon in approx 10 mins, on track 3. #NB135 will hold at Diridon. #Caltrain",135,1,0,0,0,0,1,0,1,0,0,0,0,0
+260,646718962944765952,#NB135 departing Diridon from track 4. #Caltrain,135,0,0,0,0,0,0,0,0,0,0,0,0,0
+261,646717161247936513,#SB324 is Currently –15 mins late out of HIL. #Caltrain,324,1,0,1,0,0,0,0,0,0,0,0,0,0
+262,646701048371896320,Main Track 1 has been released for single-tracking. Person was removed by EMS. #NB221 should start rolling shortly. #Caltrain,221,1,0,0,0,0,0,0,0,0,1,0,0,0
+263,646697123044392960,#SB210 was involved in a pedestrian incident at San Antonio. Details to come. Expect delays. #Caltrain,210,1,0,0,0,0,0,0,0,1,1,0,0,0
+264,646504270095740928,#NB277 is released to San Mateo Station. 381 will continue on schedule to support SB effort. #Caltrain,277,0,0,0,0,0,0,0,0,0,0,0,0,0
+265,646502211992727552,#NB381 to roll North first. #NB277 still stuck but will move to San Mateo as  soon as cleared. #Caltrain,381,1,0,0,0,0,1,0,1,0,0,0,0,0
+266,646502211992727552,#NB381 to roll North first. #NB277 still stuck but will move to San Mateo as  soon as cleared. #Caltrain,277,1,0,0,0,0,1,0,1,0,0,0,0,0
+267,646499528535769088,RT @GrowsBiz: .@Caltrain_News Drive safely people! Taken from SB278 http://t.co/ZPQQbAuBhD,278,0,0,0,0,0,0,0,0,0,0,0,0,0
+268,646497968380473344,"#NB277 at 4th Ave in #SanMateo, occupant unharmed. All trains holding in area. 381, 282, 380 holding nearby. #Caltrain",277,1,0,0,0,0,0,0,0,1,0,0,0,0
+269,646496306802786304,#NB277 reported a vehicle strike at 4th AVE. milepost 18. Transit PD en route. Expect delays. #Caltrain,277,1,0,0,0,0,0,0,0,1,0,0,0,0
+270,646472653994242048,RT @BikesOnCaltrain: #NB267 will have 5 car Gallery set instead of 6 car Bombardier set. #Caltrain,267,0,0,0,0,0,0,0,0,0,0,0,0,0
+271,646471677446979585,#NB267 -11 mins late departing SJ due to mechanical trouble with the engine. #Caltrain,267,1,0,1,0,0,0,0,0,0,0,1,0,0
+272,646371800163586048,#NB135 is 15 mins late into SCarlos. #Caltrain,135,1,0,1,0,0,0,0,0,0,0,0,0,0
+273,646366677085515776,#NB233 thru 155 will board on the southbound platform at SMT and BUR until 3:25 due to Bridge project.  #Caltrain,233,0,0,0,0,0,0,0,0,0,0,0,0,0
+274,646355193852878848,#SB322 is departing MV 12 mins late. #Caltrain,322,1,0,1,0,0,0,0,0,0,0,0,0,0
+275,646135974179663872,#SB268 -10 mins late due to heat restriction. #Caltrain,268,1,1,0,0,0,0,0,0,0,0,1,0,0
+276,644521218570219520,#NB319 14 minutes late out of PA. Will overtake 217 just south of Redwood City. #mechanical issues,319,1,0,1,0,0,0,0,1,0,0,1,0,0
+277,644326239835033600,#NB283 -10 mins late @ RWC due to special event. #Caltrain,283,1,1,0,0,0,0,0,0,0,0,0,0,1
+278,644305366927302656,RT @BikesOnCaltrain: #NB273 will have a 5 car Gallery set instead of a 6 car Bombardier set. #Caltrain,273,0,0,0,0,0,0,0,0,0,0,0,0,0
+279,644195025950146560,#NB135 thru 155 will board on the southbound platform at SMT and BUR due to SMT Bridge project. #Caltrain,135,0,0,0,0,0,0,0,0,0,0,0,0,0
+280,643955679384866816,#NB279 reported at capacity for bikes departing PA. #Caltrain @BikesOnCaltrain,279,0,0,0,0,0,0,0,0,0,0,0,0,0
+281,643948021462335489,#NB269 -10 mins late due to special event. #Caltrain,269,1,1,0,0,0,0,0,0,0,0,0,0,1
+282,643886554000179200,#NB147 is 12 mins late. #Caltrain,147,1,0,1,0,0,0,0,0,0,0,0,0,0
+283,643507221503078400,#NB143 is still holding at San Carlos as police deal with a situation at Belmont. Now 35 mins late. #Caltrain,143,1,0,0,1,0,0,0,0,1,0,0,0,0
+284,643501937950896128,#NB143 is holding at San Carlos due to police action at Belmont. #Caltrain,143,1,0,0,1,0,0,0,0,0,0,0,0,0
+285,643305909226106880,#NB449 will be pushed out of the way and taken in for repairs.  Tracks are open for regular svc. No impacts to AM commute.,449,1,0,0,0,0,0,0,0,1,0,1,0,0
+286,643299632093630464,Northbound passengers boarding at Palo Alto and Cal. Ave. will board using the Southbound platform. #NB449,449,0,0,0,0,0,0,0,0,0,0,0,0,0
+287,643299247815700480,Spare train is now on scene for transfer of passengers from #NB449.  Will then continue north making all regular stops once trnsfr complete.,449,0,0,0,0,0,0,0,0,0,0,0,0,0
+288,643294645502394368,.@SFBART has been contacted regarding delayed passengers.  Request has been made to hold the last train of the night if possible. #NB449,449,0,0,0,0,0,0,0,0,0,0,0,0,0
+289,643293381326565376,Rescue train is en route to remove passengers from #NB449.,449,0,0,0,0,0,0,0,0,0,0,0,0,0
+290,643287573775843328,#NB449 is currently 30 minutes late.  It is still holding while emergency responders determine if the train can be moved.,449,1,0,0,1,0,0,0,0,1,0,0,0,0
+291,643286827030347776,Trains have been cleared to operate on the Southbound track around the incident scene.  #NB449,449,0,0,0,0,0,0,0,0,0,0,0,0,0
+292,643283350073946112,#NB449 struck an unoccupied vehicle just South of E. Meadow Dr. Please expect delays.,449,1,0,0,0,0,0,0,0,1,0,0,0,0
+293,642467205163163648,#SB150 – 10 min late @ Cal Ave due to Quint St. slow order. #Caltrain,150,1,1,0,0,0,0,0,0,0,0,0,0,0
+294,642382852928237568,"#NB135 thru 155 to board on the southbound platforms at SMT &amp; BUR due to Bridge project.  
+
+Board on the NB platform @ #SanBruno until 3:30.",135,0,0,0,0,0,0,0,0,0,0,0,0,0
+295,642144695741583360,#NB269 -14 mins late due to earlier mechanical trouble. #Caltrain,269,1,0,1,0,0,0,0,0,0,0,1,0,0
+296,642104283597553664,"#SB254 -14 mins late at RWC
+#NB155 -10 mins late at SBR
+#Caltrain",254,1,0,1,0,0,1,0,0,0,0,0,0,0
+297,642104283597553664,"#SB254 -14 mins late at RWC
+#NB155 -10 mins late at SBR
+#Caltrain",155,1,1,0,0,0,1,0,0,0,0,0,0,0
+298,642096460742438913,"#SB254 -10 mins delayed due to slow order, late departure. #Caltrain",254,1,1,0,0,0,0,0,0,0,0,0,0,1
+299,642086787171659777,#SB150 -10 mins delayed due to slow order. #Caltrain,150,1,1,0,0,0,0,0,0,0,0,0,0,0
+300,642007725501743104,#NB227 is currently -10 mins late approaching MIL. #Caltrain,227,1,1,0,0,0,0,0,0,0,0,0,0,0
+301,641981977378209792,NB221 passengers currently on combo train out of Gilroy will transfer to NB231 at Diridon.,221,0,0,0,0,0,0,0,0,0,0,0,0,0
+302,641981977378209792,NB221 passengers currently on combo train out of Gilroy will transfer to NB231 at Diridon.,231,0,0,0,0,0,0,0,0,0,0,0,0,0
+303,641981763590336513,Replacement equipment found. NB 221 no longer combo. Departed Tamien on time.,221,0,0,0,0,0,0,0,0,0,0,0,0,0
+304,641975734794256384,NB 221 cancelled. NB 227 will run as a combo 221/227 out of Gilroy. #mechanicaldelays,221,1,0,0,0,0,0,1,0,0,0,0,0,0
+305,641975734794256384,NB 221 cancelled. NB 227 will run as a combo 221/227 out of Gilroy. #mechanicaldelays,227,1,0,0,0,0,0,1,0,0,0,0,0,0
+306,641970951039533056,NB221 experiencing mechanical difficulties. Currently 15 minute delay.,221,1,0,1,0,0,0,0,0,0,0,1,0,0
+307,641791390314184704,"CORRECTION: #SB287 is holding near LAW, will creep up to make visual on the truck. #Caltrain",287,1,0,0,0,0,1,0,0,1,0,0,0,0
+308,641790961329115136,#SB282 is holding near LAW due to truck on trax. Trains will start stacking behind it. #Caltrain,282,1,0,0,0,0,1,0,0,1,0,0,0,0
+309,641636258867900416,#NB135 thru 155 will board on the southbound platforms at SMT and BUR due to SMT Bridge project. #Caltrain,135,0,0,0,0,0,0,0,0,0,0,0,0,0
+310,641425591816720384,"#NB279 is -11 late at RWC due to Level 1 Heat Restriction, heavy ridership. #Caltrain",279,1,0,1,0,0,0,0,0,0,0,1,1,0
+311,641425591816720384,"#NB279 is -11 late at RWC due to Level 1 Heat Restriction, heavy ridership. #Caltrain",279,1,0,1,0,0,0,0,0,0,0,1,1,0
+312,641425591816720384,"#NB279 is -11 late at RWC due to Level 1 Heat Restriction, heavy ridership. #Caltrain",279,1,0,1,0,0,0,0,0,0,0,1,1,0
+313,641425591816720384,"#NB279 is -11 late at RWC due to Level 1 Heat Restriction, heavy ridership. #Caltrain",279,1,0,1,0,0,0,0,0,0,0,1,1,0
+314,641409085108187136,#NB366 -10 mins late at SUN due to following delayed 262 (Heat Restriction). #Caltrain,366,1,1,0,0,0,1,0,0,0,0,0,0,0
+315,641404287445135360,#SB262 is 10 mins late out of PA due to heat restriction. #Caltrain,262,1,1,0,0,0,0,0,0,0,0,1,0,0
+316,641393298557530112,#NB371 will depart with a 5 car Gallery instead of a 6 car Bombardier due to mechanical issues on original equipment. #Caltrain,371,0,0,0,0,0,0,0,0,0,0,0,0,0
+317,641361794049507329,#SB150 is 10 mins late at MVW due to PTC single tracking. #Caltrain,150,1,1,0,0,0,0,0,0,0,0,0,0,0
+318,641331991644905472,#SB142 is 10 mins late out of San Antonio. #Caltrain,142,1,1,0,0,0,0,0,0,0,0,0,0,0
+319,641296442917822464,#NB233 is delayed 10 mins out of MIL. #Caltrain,233,1,1,0,0,0,0,0,0,0,0,0,0,0
+320,641287136520572928,#NB135 thru 155 will board on the southbound platforms at SMT and BUR due to San Mateo Bridge project. #Caltrain,135,0,0,0,0,0,0,0,0,0,0,0,0,0
+321,639931803151699968,#SB152 is 17mins late @ LAW. #Caltrain,152,1,0,1,0,0,0,0,0,0,0,0,0,0
+322,639928147601813504,Rider RT: #SB152  https://t.co/TlzDJWIToY,152,0,0,0,0,0,0,0,0,0,0,0,0,0
+323,639621436919803904,#SB278 -11 mins late due to special event. #Caltrain,278,1,0,1,0,0,0,0,0,0,0,0,0,1
+324,639290251022696448,"Single tracking will begin with #NB197.  All trains will board on the southbound track at Sunnyvale, LAW &amp; Santa Clara tonight. #Caltrain",197,0,0,0,0,0,0,0,0,0,0,0,0,0
+325,639206023199256577,#NB257 is -19 mins late en route to RWC due to late departure. #Caltrain,257,1,0,1,0,0,0,0,0,0,0,0,0,0
+326,639204798902878208,#SB152 -10 mins late at SUN due to single tracking @ SBR. #Caltrain,152,1,1,0,0,0,0,0,0,0,0,0,0,0
+327,639194900706136064,#NB257 departed TAM -17 mins late. #Caltrain,257,1,0,1,0,0,0,0,0,0,0,0,0,0
+328,639192214967443456,#NB257 is having mechanical issues at TAM. Currently 10 mins late &amp; counting. #Caltrain,257,1,1,0,0,0,0,0,0,0,0,1,0,0
+329,639185687137267713,#SB150 is -10” at PA due to single tracking. #Caltrain,150,1,1,0,0,0,0,0,0,0,0,0,0,0
+330,639160750322413568,#SB142 is 10 mins late out of LAW. #Caltrain,142,1,0,0,0,0,0,0,0,0,0,0,0,0
+331,639157859469664260,#NB143 will board on southbound platform at BAY. #Caltrain,143,0,0,0,0,0,0,0,0,0,0,0,0,0
+332,639136865837150208,#SB138 is 10 mins delayed out of San Carlos. #Caltrain,138,1,1,0,0,0,0,0,0,0,0,0,0,0
+333,639085392231206913,#NB313 is on the move after police activity to remove a passenger. 15 mins delayed.  #Caltrain,313,1,0,1,0,0,0,0,0,0,0,0,1,0
+334,639083784957132800,There is a medical response happening on #NB313 according to several passengers. #Caltrain,313,1,0,1,0,0,0,0,0,0,1,0,0,0
+335,638835460958085120,"#SB152 is -10” out of San Carlos due to Quint St slow order, single tracking. #Caltrain",152,1,1,0,0,0,0,0,0,0,0,0,0,0
+336,638821151578288131,#NB155 will have a 6 car Bombardier set instead of a 5 car Gallery set due to mechanical issue. #Caltrain,155,0,0,0,0,0,0,0,0,0,0,0,0,0
+337,638820771599527936,#NB155 will be departing off depot track 6 in SJ. #Caltrain,155,0,0,0,0,0,0,0,0,0,0,0,0,0
+338,638508371084120064,#NB269 is at capacity for bikes and standing room only en route to RWC. #Caltrain,269,0,0,0,0,0,0,0,0,0,0,0,0,0
+339,638419437960347648,#NB139 is 10 mins delayed at #SanBruno. #Caltrain,139,1,1,0,0,0,0,0,0,0,0,0,0,0
+340,638412521611915264,#SB138 is 10 mins delayed at RWC. #Caltrain,138,1,1,0,0,0,0,0,0,0,0,0,0,0
+341,637433404426813440,#SB268 -10 mins late due to slow order and special event. #Caltrain,268,1,1,0,0,0,0,0,0,0,0,0,0,1
+342,637392854621417472,#SB152 -11 mins late departing PA. #Caltrain,152,1,0,1,0,0,0,0,0,0,0,0,0,0
+343,637347367222546437,#NB135 thru 155 will board on the southbound platforms at #SanMateo &amp; #Burlingame due to SM Bridge project.  #Caltrain,135,0,0,0,0,0,0,0,0,0,0,0,0,0
+344,637347183696605184,#SB142 is 10 mins delayed. #Caltrain,142,1,1,0,0,0,0,0,0,0,0,0,0,0
+345,637071196152991744,#SB268 is -10 mins late at LAW. #Caltrain,268,1,1,0,0,0,0,0,0,0,0,0,0,0
+346,637055166420619264,#SB360 is -10 mins late at SUN due to heavy ridership. #Caltrain,360,1,1,0,0,0,0,0,0,0,0,0,1,0
+347,637031918580531200,"#SB150 is 23 mins delayed due to ""unruly passenger."" #Caltrain",150,1,0,0,1,0,0,0,0,0,0,0,1,0
+348,637031829749563392,#SB150 is on the move out of PA after passenger removed by PD. #Caltrain,150,1,0,0,0,0,0,0,0,0,0,0,1,0
+349,637027899531505664,#SB152 is holding at PA for the removal of a passenger. It is currently 15 mins delayed. #Caltrain,152,1,0,1,0,0,1,0,0,0,0,0,1,0
+350,637011232415985664,#SB150 is -14 mins late at PA due to single tracking. #Caltrain,150,1,0,1,0,0,0,0,0,0,0,0,0,0
+351,637007802515394560,#SB150 is -11 mins late at HIL due to single tracking. #Caltrain,150,1,0,1,0,0,0,0,0,0,0,0,0,0
+352,636989831038398468,"#SB142 is stalled at Santa Clara, rescue locomotive hooking up now. Currently 20 mins delayed. #Caltrain",142,1,0,0,1,0,0,0,0,0,0,0,0,0
+353,636982691678822400,#NB143 is 15 mins delayed due to San Mateo bridge proj. #Caltrain,143,1,0,1,0,0,0,0,0,0,0,0,0,0
+354,636956401810542592,#NB135 is 14 mins delayed due to heavy ridership. #CaLtrain,135,1,0,1,0,0,0,0,0,0,0,0,1,0
+355,636926694423597056,#NB225 is 11 mins delayed out if HIL. #Caltrain,225,1,0,1,0,0,0,0,0,0,0,0,0,0
+356,636708521942188032,#SB268 is -11 mins late at SUN. #Caltrain,268,1,0,1,0,0,0,0,0,0,0,0,0,0
+357,636702174760734721,#NB269 departed San Carlos standing room only. Expect heavy NB traffic ahead of #SFGiants game. #Caltrain,269,0,0,0,0,0,0,0,0,0,0,0,0,0
+358,636664734532550657,#NB155 is -10 mins late at San Mateo. #Caltrain,155,1,1,0,0,0,0,0,0,0,0,0,0,0
+359,636659101250928640,"#SB254 is -10 mins late into SBR due to Quint St slow order, single tracking at 22nd. #Caltrain",254,1,1,0,0,0,0,0,0,0,0,0,0,0
+360,636322970080645120,#SB156 is -15 mins delayed at MV. #Caltrain,156,1,0,1,0,0,0,0,0,0,0,0,0,0
+361,636310210655580161,#SB156 is -11 mins delayed at BUR. #Caltrain,156,1,0,1,0,0,0,0,0,0,0,0,0,0
+362,636303354528817152,"#SB254 is -10 mins late out of  San Carlos due to single tracking (SF Bridge project/Met 151), Quint St slow order. #Caltrain",254,1,1,0,0,0,0,0,0,0,0,0,0,0
+363,636260759182245888,#NB143 is 16 mins delayed at San Bruno. #Caltrain,143,1,0,1,0,0,0,0,0,0,0,0,0,0
+364,636230676694503424,#NB135 is 13 mins delayed at San Bruno. #Caltrain,135,1,0,1,0,0,0,0,0,0,0,0,0,0
+365,635993302165159936,#SB268 is 22 mins late out of Tamien. #Caltrain,268,1,0,0,1,0,0,0,0,0,0,0,0,0
+366,635985154977038337,#SB370 -11 mins late out of MV due to bikes and following delayed train. #Caltrain,370,1,0,1,0,0,1,0,0,0,0,0,1,0
+367,635982638000373760,"#SB268 -12 mins late due to bikes, luggage, slow order. #Caltrain",268,1,0,1,0,0,0,0,0,0,0,0,0,0
+368,635941558320128005,#SB254 -11 mins delayed departing HIL due to single tracking. #Caltrain,254,1,0,1,0,0,0,0,0,0,0,0,0,0
+369,635935023460298752,#NB257 has been terminated at Tamien. 159 is the next NB. #Caltrain,257,1,0,0,0,0,0,1,0,0,0,0,0,0
+370,635932374711140352,#NB257 is 15 mins delayed due to a brake issue at TAM. #Caltrain,257,1,0,1,0,0,0,0,0,0,0,1,0,0
+371,634898393194631168,#NB375 is holding outside of 22nd due to police request. #Caltrain,375,1,0,0,1,0,0,0,0,1,0,0,0,0
+372,634155362954776576,#NB371 departed PA standing room only. #Caltrain,371,0,0,0,0,0,0,0,0,0,0,0,0,0
+373,634137986263814144,#NB257 is -13 mins late at SBR. #Caltrain,257,1,0,1,0,0,0,0,0,0,0,0,0,0
+374,634109641396461569,#NB151 is -10 mins delayed at HIL. #Caltrain,151,1,1,0,0,0,0,0,0,0,0,0,0,0
+375,634018396061892609,#SB312 is delayed 12 mins out of San Antonio. #Caltrain,312,1,0,1,0,0,0,0,0,0,0,0,0,0
+376,633754574688382976,#SB150 -10 mins delayed at LAW. #Caltrain,150,1,1,0,0,0,0,0,0,0,0,0,0,0
+377,632359097661153280,#NB269 is -10 mins delayed en route to 22nd due to event fans and a near miss with trespasser at RWC. #Caltrain,269,1,1,0,0,0,0,0,0,1,0,0,0,1
+378,632303547606917120,#NB151 is -10 mins delayed at San Bruno. #Caltrain,151,1,1,0,0,0,0,0,0,0,0,0,0,0
+379,631916233139470336,"#NB143 is 41 mins delayed out of San Mateo, due to equipment change, single tracking at SM. #Caltrain",143,1,0,0,0,1,0,0,0,0,0,1,0,0
+380,631911360826204160,#NB143 is delayed 31 mins out of BEL due to swapping equipment at SJ.  Will incur more delay due to single tracking at SM &amp; BUR. #Caltrain,143,1,0,0,1,0,0,0,0,0,0,1,0,0
+381,631906962372866048,#NB143 is delayed 27 minutes.  Departing PA. #Caltrain,143,1,1,0,0,0,0,0,0,0,0,0,0,0
+382,631893952291995648,#NB143 will depart from track 5 in San Jose. It is 10 mins delayed. #Caltrain,143,1,1,0,0,0,0,0,0,0,0,0,0,0
+383,631855746557149184,#Sb220 is 10 mins delayed out of San Antonio. #Caltrain,220,1,1,0,0,0,0,0,0,0,0,0,0,0
+384,631636151510523908,#SB370 -12 mins delayed due to special event and following delayed train. #Caltrain,370,1,0,1,0,0,0,0,0,0,0,0,0,1
+385,631634312354394112,#SB268 is 12 mins late due to Giants traffic &amp; a now-extinguished brush fire. #Caltrain,268,1,0,1,0,0,0,0,0,0,0,0,0,1
+386,631609683384467456,#SB262 is reported at capacity for bikes and standing room only out of 22nd. #Caltrain,262,0,0,0,0,0,0,0,0,0,0,0,0,0
+387,631266022410969089,RT @BikesOnCaltrain: #SB376 reported standing room only and at capacity for bikes departing BAY. #Caltrain,376,0,0,0,0,0,0,0,0,0,0,0,0,0
+388,631135405077704704,#NB231 is 19 mins down due to a flag stop. #Caltrain,231,1,0,1,0,0,0,0,0,0,0,0,0,0
+389,630908724547182592,#SB268 is 11 mins late at Sunnyvale. #Caltrain,268,1,0,1,0,0,0,0,0,0,0,0,0,0
+390,630869721437483008,#SB152 is 10 mins delayed out of Sunnyvale due to mechanical issue. On the move. #Caltrain,152,1,1,0,0,0,0,0,0,0,0,1,0,0
+391,629804371094605824,SB 360 now moving. 11 minutes late due to police action. #caltraindelays,360,1,0,1,0,0,0,0,0,0,0,0,1,0
+392,629804122154217473,"RT @eastgoeswest: SB360 on the move from PA 4:57p, 11 min down @Caltrain_News",360,1,0,1,0,0,0,0,0,0,0,0,0,0
+393,629804031074897924,SB 360 delayed at Palo Alto while police search train for possible robbery suspect. #caltraindelays,360,1,0,0,0,0,0,0,0,0,0,0,1,0
+394,629446702617903104,NB 273 has been cancelled due to mechanical issues. #caltraindelays,273,1,0,0,0,0,0,1,0,0,0,1,0,0
+395,629101323149930496,NB 283 is 11 minutes late out of Sunnyvale.,283,1,0,1,0,0,0,0,0,0,0,0,0,0
+396,629101103167209472,NB 287 and 289 will operate as a combo out of Tamien. Train will stop at San Bruno.,287,0,0,0,0,0,0,0,0,0,0,0,0,0
+397,628400683155238912,NB 385 will be cancelled due to equipment issues.  287 will pick up its passengers.  Crew from 287 will turn for 192 late out of SF.,385,1,0,0,0,0,0,1,0,0,0,0,0,0
+398,628383102797115392,NB 385 AND SB 274 have struck a vehicle at the Mary Ave. crossing. Tracks shut down in both directions.,385,1,0,0,0,0,0,0,0,1,0,0,0,0
+399,628383102797115392,NB 385 AND SB 274 have struck a vehicle at the Mary Ave. crossing. Tracks shut down in both directions.,274,1,0,0,0,0,0,0,0,1,0,0,0,0
+400,627278592561381377,"#SB262 is 69"" late, #SB264 60"" late, #SB366 55"" late, #SB268 31"" late, #NB263 19"" late, #NB365 19"" late #Caltrain",262,1,0,0,0,1,0,0,0,1,0,0,0,0
+401,627278592561381377,"#SB262 is 69"" late, #SB264 60"" late, #SB366 55"" late, #SB268 31"" late, #NB263 19"" late, #NB365 19"" late #Caltrain",264,1,0,0,0,1,0,0,0,1,0,0,0,0
+402,627278592561381377,"#SB262 is 69"" late, #SB264 60"" late, #SB366 55"" late, #SB268 31"" late, #NB263 19"" late, #NB365 19"" late #Caltrain",366,1,0,0,0,1,0,0,0,1,0,0,0,0
+403,627278592561381377,"#SB262 is 69"" late, #SB264 60"" late, #SB366 55"" late, #SB268 31"" late, #NB263 19"" late, #NB365 19"" late #Caltrain",268,1,0,0,1,0,0,0,0,1,0,0,0,0
+404,627278592561381377,"#SB262 is 69"" late, #SB264 60"" late, #SB366 55"" late, #SB268 31"" late, #NB263 19"" late, #NB365 19"" late #Caltrain",263,1,0,1,0,0,0,0,0,1,0,0,0,0
+405,627278592561381377,"#SB262 is 69"" late, #SB264 60"" late, #SB366 55"" late, #SB268 31"" late, #NB263 19"" late, #NB365 19"" late #Caltrain",365,1,0,1,0,0,0,0,0,1,0,0,0,0
+406,627270244415836161,#SB360 terminated @ 22nd Street. #NB159 terminated at Bayshore and turned south to provide local service. #Caltrain,360,1,0,0,0,0,0,1,0,1,0,0,0,0
+407,627270244415836161,#SB360 terminated @ 22nd Street. #NB159 terminated at Bayshore and turned south to provide local service. #Caltrain,159,1,0,0,0,0,0,1,0,1,0,0,0,0
+408,627264046060826624,#NB159 is holding at the Bayshore station. #Caltrain,159,1,0,0,0,0,0,0,0,1,0,0,0,0
+409,627263837792702464,#SB360 is stopped in the SB tunnel and emergency personnel and train crews are working to get it moved as quickly as possible. #Caltrain,360,1,0,0,0,0,0,0,0,1,0,0,0,0
+410,627259728129753088,#SB360 has been involved in a trespasser strike near 22nd Street. Trains are stopped in both directions right now. #Caltrain,360,1,0,0,0,0,0,0,0,1,0,0,0,0
+411,626916231656767488,"#NB371 running 6"" late #Caltrain",371,1,1,0,0,0,0,0,0,0,0,0,0,0
+412,626802021782302724,"#NB233 is 13"" late due to heavy ridership. #Caltrain",233,1,0,1,0,0,0,0,0,0,0,0,0,0
+413,626577938624831488,"#NB283 -12 mins late due to following delayed train, #Caltrain",283,1,0,1,0,0,0,0,0,0,0,0,0,0
+414,626542811354009600,#SB258 -20 mins late departing  Cal Ave. #Caltrain,258,1,0,0,1,0,0,0,0,0,0,0,0,0
+415,626535008744837121,#SB258 departed San Carlos 14 mins late. #Caltrain,258,1,0,1,0,0,0,0,0,0,0,0,0,0
+416,626478604134825984,#NB143 is -16 mins delayed due to baseball fans. #Caltrain,143,1,0,1,0,0,0,0,0,0,0,0,1,1
+417,626425154193784832,#NB233 is standing room only (packed) out of San Antonio. #Caltrain,233,0,0,0,0,0,0,0,0,0,0,0,0,0
+418,626271981961265154,SB 194 cleared to continue south. #caltraindelays,194,1,0,0,0,0,0,0,0,0,0,0,0,0
+419,626266927338360832,NB 197 is holding at Millbrae while emergency responders complete work. #caltraindelays,197,1,0,0,0,0,0,0,0,0,1,0,0,0
+420,626199429607895040,#NB375 is -15 mins late departing RWC.  #Caltrain,375,1,0,1,0,0,0,0,0,0,0,0,0,0
+421,626107437888573440,"#SB142 is delayed 10 mins due to a BIG group of small children, and door issue that occurred at BEL. #Caltrain",142,1,1,0,0,0,0,0,0,0,0,0,1,0
+422,625829885911547904,#NB375 departed PA standing room only. #Caltrain,375,0,0,0,0,0,0,0,0,0,0,0,0,0
+423,625829673511948288,#NB277 is -10 Mins late into SCL due to mechanical issues (brakes) at SJ. 381 will overtake 279 at SCL. #Caltrain,277,1,1,0,0,0,0,0,0,0,0,0,1,0
+424,625820927901601792,#NB273 will depart San Jose a little late. #Caltrain,273,1,1,0,0,0,0,0,0,0,0,0,0,0
+425,624749175184322564,#NB375 and 277 making all local stops to SF. #Caltrain,375,0,0,0,0,0,0,0,0,0,0,0,0,0
+426,624747408304373760,#NB375 at RWC accommodating some of the passengers from 273. #Caltrain,375,0,0,0,0,0,0,0,0,0,0,0,0,0
+427,624745159742259200,#NB273 terminated at RWC due to mechanical trouble. #Caltrain,273,1,0,0,0,0,0,1,0,0,0,1,0,0
+428,624731150263521280,#NB365 reported full and at capacity at RWC. #Caltrain #battleofthebay,365,0,0,0,0,0,0,0,0,0,0,0,0,0
+429,624268074644955136,"#NB233 is -29 mins late due to being talked past switch issue. 
+ 236 is currently -19 mins late due to waiting on delayed 233. #Caltrain",233,1,0,0,1,0,0,0,0,0,0,1,0,0
+430,624265244886503428,#NB233 held up by track switch issue. Working to resolve. #Caltrain,233,1,0,0,0,0,0,0,0,0,0,1,0,0
+431,624256021477756928,#SB226 is currently -11 late  at LAW due to heavy ridership. #Caltrain,226,1,0,1,0,0,0,0,0,0,0,0,1,0
+432,624239888699777026,#SB216 is 22 mins kate &amp; will drop passengers at RWC for 218. 220 &amp; 322 will likely take delays behind 218. #Caltrain,216,1,0,1,0,0,1,0,0,0,0,1,0,0
+433,624229518572589056,#SB216 is operating without lights &amp; will have to operate slowly to SJ. #Caltrain,216,1,0,0,0,0,0,0,0,0,0,1,0,0
+434,624009098481172480,#NB273 is delayed out of Tamien by about 10 mins. #Caltrain,273,1,1,0,0,0,0,0,0,0,0,0,0,0
+435,623894116573667328,#NB233 is delayed 11 mins at RWC. #Caltrain,233,1,0,1,0,0,0,0,0,0,0,0,0,0
+436,623885577469886464,#SB220 is 10 mins late out of LAW. #Caltrain,220,1,1,0,0,0,0,0,0,0,0,0,0,0
+437,623668101712773120,RT @BikesOnCaltrain: #SB386 departed SF at capacity for bikes. #Caltrain,386,0,0,0,0,0,0,0,0,0,0,0,0,0
+438,623641520030093312,RT @BikesOnCaltrain: #NB365 departed PA at capacity for bikes. #Caltrain,365,0,0,0,0,0,0,0,0,0,0,0,0,0
+439,623540276263399424,#NB135 is delayed 11 mins at RWC. #Caltrain,135,1,0,1,0,0,0,0,0,0,0,0,0,0
+440,623536429210046464,"#NB233 is delayed 14 mins @ San Mateo due to bridge project, crowds. #Caltrain",233,1,0,1,0,0,0,0,0,0,0,0,0,0
+441,623494122045730816,RT @BikesOnCaltrain: #SB314 will run with a 5-car Gallery Consist instead of a 6-car Bombardier Consist due to mechanical issues. #Caltrain,314,0,0,0,0,0,0,0,0,0,0,0,0,0
+442,623169752509190144,#SB230 is 11 mins late out of Menlo Park. #Caltrain,230,1,0,1,0,0,0,0,0,0,0,0,0,0
+443,623150694824935424,#NB323 will overtake 221 at MIL due to delay to 221. #Caltrain,323,1,0,0,0,0,1,0,1,0,0,0,0,0
+444,623149667388252161,"#NB217 delayed 17” at BUR due to freight train at GIL, large crowds.
+#NB221 delayed 13” at HIL, following 217. 
+#Caltrain",217,1,0,1,0,0,1,0,0,0,0,0,0,0
+445,623149667388252161,"#NB217 delayed 17” at BUR due to freight train at GIL, large crowds.
+#NB221 delayed 13” at HIL, following 217. 
+#Caltrain",221,1,0,1,0,0,0,0,0,0,0,0,0,0
+446,623147171441840129,"#NB221 is 13 mins late out of RWC.  Delayed due to following 217, also 12 late. #Caltrain",221,1,0,1,0,0,0,0,0,0,0,0,0,0
+447,622194104517050369,#SB156 running 10 mins behind #Caltrain,156,1,1,0,0,0,0,0,0,0,0,0,0,0
+448,621690817686585344,"Due to mechanical issues, #SB218 will run as 5-car gallery instead of a 6-car Bombardier. #Caltrain",218,0,0,0,0,0,0,0,0,0,0,0,0,0
+449,621478910815924224,"#NB267 – 18min late BUR
+#NB371 – 12min late SM following them. 
+#Caltrain",267,1,0,1,0,0,0,0,0,0,0,0,0,0
+450,621478910815924224,"#NB267 – 18min late BUR
+#NB371 – 12min late SM following them. 
+#Caltrain",371,1,0,1,0,0,0,0,0,0,0,0,0,0
+451,621476223714136064,#NB267 is operating without lights. It is required to pass crossings at 20 MPH. 371 will be delayed behind it. #Caltrain,267,1,0,0,0,0,1,0,0,0,0,1,0,0
+452,621386637159698433,#SB138 is 10 mins delayed at San Antonio. #Caltrain,138,1,1,0,0,0,0,0,0,0,0,0,0,0
+453,621360444146475008,#NB233 is 10 mins late. #Caltrain,233,1,1,0,0,0,0,0,0,0,0,0,0,0
+454,621136980282343424,RT @landenbuckley: On @Caltrain_News SB 264. Found After everyone got off at Menlo Park. Please RT! If it's yours DM me the inscription. ht…,264,0,0,0,0,0,0,0,0,0,0,0,0,0
+455,621132308528136192,"RT @scottvb: SB268 #caltrain backing up and going North at Menlo.  Looks like Fire, Sheriff, and a spare gate arm are all in action out the…",268,1,0,0,0,0,0,0,0,1,0,0,0,0
+456,621120675982479361,"#SB264 has struck a crossing gate @ Menlo, causing damage to the locomotive. 268 will likely couple and push it along. #Caltrain",264,1,0,0,0,0,0,0,0,1,0,0,0,0
+457,621053662199033856,#SB146 is 10 mins delayed at San Antonio. #Caltrain,146,1,1,0,0,0,0,0,0,0,0,0,0,0
+458,621037841892577280,"#SB142 is 10 mins late out of San Antonio. 
+#NB143 is also 10 mins late. #Caltrain",142,1,1,0,0,0,0,0,0,0,0,0,0,0
+459,621037841892577280,"#SB142 is 10 mins late out of San Antonio. 
+#NB143 is also 10 mins late. #Caltrain",143,1,1,0,0,0,0,0,0,0,0,0,0,0
+460,620957977856454656,#NB313 terminated at SJ due to engine issue.  313 will combine schedules with No. 215. #Caltrain,313,1,0,0,0,0,0,1,0,0,0,1,0,0
+461,620753498699755520,#SB258 -28 mins late departing SJ due to signal problem. #Caltrain,258,1,0,0,1,0,0,0,0,0,0,1,0,0
+462,620750983967080448,#SB258 -20 mins late holding at SJ due to switch trouble. #Caltrain,258,1,0,1,0,0,0,0,0,0,0,1,0,0
+463,620750805478420480,RT @BikesOnCaltrain: #NB269 reported at bike capacity departing PA. #Caltrain,269,0,0,0,0,0,0,0,0,0,0,0,0,0
+464,620649061914312704,#NB135 is currently -16 mins delayed. #Caltrain,135,1,0,1,0,0,0,0,0,0,0,0,0,0
+465,619235342361563136,#SB146 terminated at SoSF. Passengers will be transferred to #SB150 shortly. #Caltrain,146,1,0,0,0,0,0,1,0,0,0,0,0,0
+466,619235342361563136,#SB146 terminated at SoSF. Passengers will be transferred to #SB150 shortly. #Caltrain,150,0,0,0,0,0,0,0,0,0,0,0,0,0
+467,618930012998111232,"#SB156 is -20 mins late in to LAW due to Med incident, baseball. #Caltrain",156,1,0,1,0,0,0,0,0,0,1,0,0,1
+468,618917566392602624,#SB156 is 14 mins late departing Hayward Park due to medical incident. #Caltrain,156,1,0,1,0,0,0,0,0,0,1,0,0,0
+469,618587863039381505,#NB375 reported standing room only out of RWC. #Caltrain #SFGiants,375,0,0,0,0,0,0,0,0,0,0,0,0,0
+470,618221343335563265,RT @BikesOnCaltrain: #NB375 reported at capacity for bikes departing PA. #Caltrain,375,0,0,0,0,0,0,0,0,0,0,0,0,0
+471,618210814105796608,"#NB365 -14 mins late due to a overshoot, unruly passenger. #Caltrain",365,1,0,1,0,0,0,0,0,0,0,0,1,0
+472,616424962216177664,#SB278 -10 mins late out of RWC. #Caltrain,278,1,1,0,0,0,0,0,0,0,0,0,0,0
+473,616419760918495232,#SB268 -10 mins late out of SJ. #Caltrain,268,1,1,0,0,0,0,0,0,0,0,0,0,0
+474,616412984684863489,#SB274 -13 mins late due to mechanical trouble at BAY. #Caltrain,274,1,0,1,0,0,0,0,0,0,0,1,0,0
+475,616395282956161025,#NB261 -14 mins late due to a signal issue. #Caltrain,261,1,0,1,0,0,0,0,0,0,0,1,0,0
+476,616290816567443456,#SB134 will be next train to San Carlos. #Caltrain,134,0,0,0,0,0,0,0,0,0,0,0,0,0
+477,616282252708810756,#SB220 will move to San Carlos to let passengers off then will go out of service. #Caltrain,220,0,0,0,0,0,0,0,0,0,0,0,0,0
+478,616280938155257856,"225 and 329 will proceed NB first, followed by SB 322 and 324. #Caltrain",322,0,0,0,0,0,0,0,0,0,0,0,0,0
+479,616267540067540992,#SB220 has been involved in a trespasser incident near Belmont. Expect delays. #Caltrain,220,1,0,0,0,0,0,0,0,1,0,0,0,0
+480,616046620598099968,"#SB370 will be routed around 268, which is about 10 mins delayed.",370,1,1,0,0,0,0,0,0,0,0,0,0,0
+481,615691078541316096,#SB370 -11 mins delayed out of MV. #Caltrain,370,1,0,1,0,0,0,0,0,0,0,0,0,0
+482,615688654023888896,10 min delays on SB 264 &amp; 268. #Caltrain,264,1,1,0,0,0,0,0,0,0,0,0,0,0
+483,615681626215833601,#SB366 -22 late out of RWC due to mechanical trouble. #Caltrain,366,1,0,0,1,0,0,0,0,0,0,1,0,0
+484,615668764105920513,#SB366 -12 Mins late departing SF due to mechanical trouble. #Caltrain,366,1,0,1,0,0,0,0,0,0,0,1,0,0
+485,615652065717678080,#NB155 -10 mins late at San Bruno. #Caltrain,155,1,1,0,0,0,0,0,0,0,0,0,0,0
+486,615565431907201025,All Bombardier sets now 6-car with addition of NB 309 &amp; 273 &amp; SB 218 &amp; 288. http://t.co/3WoLnTJp9N #Caltrain,309,0,0,0,0,0,0,0,0,0,0,0,0,0
+487,615565431907201025,All Bombardier sets now 6-car with addition of NB 309 &amp; 273 &amp; SB 218 &amp; 288. http://t.co/3WoLnTJp9N #Caltrain,218,0,0,0,0,0,0,0,0,0,0,0,0,0
+488,614638964490678272,"Due to signal issues, trains are experiencing delays. #SB284 is 30"" late, #SB386 34"" late, #NB289 22"", #NB191 13"", #NB193 19""&amp; #SB288 20""",284,1,0,0,1,0,1,0,0,0,0,1,0,0
+489,614638964490678272,"Due to signal issues, trains are experiencing delays. #SB284 is 30"" late, #SB386 34"" late, #NB289 22"", #NB191 13"", #NB193 19""&amp; #SB288 20""",386,1,0,0,1,0,1,0,0,0,0,1,0,0
+490,614638964490678272,"Due to signal issues, trains are experiencing delays. #SB284 is 30"" late, #SB386 34"" late, #NB289 22"", #NB191 13"", #NB193 19""&amp; #SB288 20""",289,1,0,0,1,0,1,0,0,0,0,1,0,0
+491,614638964490678272,"Due to signal issues, trains are experiencing delays. #SB284 is 30"" late, #SB386 34"" late, #NB289 22"", #NB191 13"", #NB193 19""&amp; #SB288 20""",191,1,0,1,0,0,1,0,0,0,0,1,0,0
+492,614638964490678272,"Due to signal issues, trains are experiencing delays. #SB284 is 30"" late, #SB386 34"" late, #NB289 22"", #NB191 13"", #NB193 19""&amp; #SB288 20""",193,1,0,1,0,0,1,0,0,0,0,1,0,0
+493,614638964490678272,"Due to signal issues, trains are experiencing delays. #SB284 is 30"" late, #SB386 34"" late, #NB289 22"", #NB191 13"", #NB193 19""&amp; #SB288 20""",288,1,0,1,0,0,1,0,0,0,0,1,0,0
+494,614581079257694208,#NB261 is currently standing room only and at capacity for bikes. #Caltrain,261,0,0,0,0,0,0,0,0,0,0,0,0,0
+495,614223012825436160,#NB365 -10 Mins late departing PA. #Caltrain,365,1,1,0,0,0,0,0,0,0,0,0,0,0
+496,614123176906375168,#NB139 is currently delayed out of SJ due to track change because of Mechanical issue. 139 is currently 11” late &amp; not yet departed SJ.,139,1,0,1,0,0,0,0,0,0,0,1,0,0
+497,613741535494942720,RT @BikesOnCaltrain: #NB227 is standing room only and at capacity for bikes approaching MIL. #Caltrain,227,0,0,0,0,0,0,0,0,0,0,0,0,0
+498,613713834348417024,RT @BikesOnCaltrain: #NB319 is at capacity for people and bikes out of MV. Standing room only. #Caltrain,319,0,0,0,0,0,0,0,0,0,0,0,0,0
+499,613506922117869568,RT @BikesOnCaltrain: #SB376 reported standing room only and at capacity for bikes departing SF. #Caltrain,376,0,0,0,0,0,0,0,0,0,0,0,0,0
+500,613376256248123392,RT @mikevladimer: @BikesOnCaltrain @Caltrain_News @sfbike FYI bike car is almost full on SB230 after just our second stop at 22nd St. (I kn…,230,0,0,0,0,0,0,0,0,0,0,0,0,0
+501,613026667557072896,#NB233 is 10 mins late out of Hayward Park. #Caltrain,233,1,1,0,0,0,0,0,0,0,0,0,0,0
+502,613014618785447936,#SB322 is 14 mins late At MV.  Delayed due to following 220. #Caltrain,322,1,0,1,0,0,0,0,0,0,0,0,0,0
+503,613013075696848896,#SB220 is 16 mins late out of MV. #Caltrain,220,1,0,1,0,0,0,0,0,0,0,0,0,0
+504,612073320557621248,#SB278 – 15min late @ HIL. #Caltrain,278,1,0,1,0,0,0,0,0,0,0,0,0,0
+505,612071628441149440,#SB274 – 17 min late Hayward Park. #Caltrain,274,1,0,1,0,0,0,0,0,0,0,0,0,0
+506,612069340192485376,#SB376 – 14min late RWC. Southbound delays.,376,1,0,1,0,0,0,0,0,0,0,0,0,0
+507,612069071929016320,#SB268 held at SJ for #370 PAX transfer due to #370 being 12min latE. #Caltrain,268,1,0,1,0,0,0,0,0,0,0,0,0,0
+508,612068772027830272,#SB272 – 17 min late @ HIL Due to signal issues. #Caltrain,272,1,0,1,0,0,0,0,0,0,0,1,0,0
+509,612061302458966017,#SB370 – 11 min late HIL. #Caltrain,370,1,0,1,0,0,0,0,0,0,0,0,0,0
+510,612026463651434496,#NB151 was 10min late out of BEL. #Caltrain,151,1,1,0,0,0,0,0,0,0,0,0,0,0
+511,611977490110611456,#SB142 is 12 mins late at PA. #Caltrain,142,1,0,1,0,0,0,0,0,0,0,0,0,0
+512,611711210652725248,#SB376 - 21mins late @ PA. 376 ran around 274 at RWC.  274 – 8min late after getting passed. #Caltrain,376,1,0,0,1,0,0,0,0,0,0,0,0,0
+513,611697160120209408,#SB376 will depart SF approx. 10-15min late due equipment swaps for mechanical issues. 274 will run ahead of 376 from SSF – RWC.,376,1,0,1,0,0,0,0,0,0,0,0,0,0
+514,611687942575132672,#SB156 will be about 15min late into CAP. #Caltrain,156,1,0,1,0,0,0,0,0,0,0,0,0,0
+515,611680260300484608,#SB258 - 12 mins late. #Caltrain,258,1,0,1,0,0,0,0,0,0,0,0,0,0
+516,611670061820981248,#SB258 departed SF 12 mins late. #Caltrain,258,1,0,1,0,0,0,0,0,0,0,0,0,0
+517,611665539639803904,#SB254-14 mins late @ RWC. #Caltrain,254,1,0,1,0,0,0,0,0,0,0,0,0,0
+518,611665428222337024,#NB155 – 10 min late out of San Mateo. #Caltrain,155,1,1,0,0,0,0,0,0,0,0,0,0,0
+519,611659056227311616,#SB152-10min late @ RWC. Mechanical delay. #Caltrain,152,1,1,0,0,0,0,0,0,0,0,1,0,0
+520,611625972027125760,#SB146 – 13” mins late out of SMT. #Caltrain,146,1,0,1,0,0,0,0,0,0,0,0,0,0
+521,611531147495866368,#SB104 is 23 mins late. #Caltrain,104,1,0,0,1,0,0,0,0,0,0,0,0,0
+522,611185810088398849,#NB221 is running about 15 mins late. #Caltrain,221,1,0,1,0,0,0,0,0,0,0,0,0,0
+523,611178237062959104,RT @chenmor3: @Caltrain_News NB221 just arrived to blossom 10 min late,221,1,1,0,0,0,0,0,0,0,0,0,0,0
+524,611178205848862720,#NB221 departed Gilroy 11 late. Still rolling up to SJ. #Caltrain @jessicatai,221,1,0,1,0,0,0,0,0,0,0,0,0,0
+525,610988792887926785,"#SB380 reported a near miss with a trespasser en route to HIL. Train was able to avoid, on the move. #Caltrain",380,1,0,0,0,0,0,0,0,1,0,0,0,0
+526,610967738505277445,#NB269 departed PA 10 LATE. 269 is at bike capacity. #Caltrain,269,1,1,0,0,0,0,0,0,0,0,0,0,0
+527,610886385810063360,#SB142 is 18 mins late out of Millbrae. #Caltrain,142,1,0,1,0,0,0,0,0,0,0,0,0,0
+528,609889477117394944,Mechanical problem with SB 440. It will return to SF and passengers will board SB 442.,440,1,0,0,0,0,0,1,0,0,0,1,0,0
+529,609889477117394944,Mechanical problem with SB 440. It will return to SF and passengers will board SB 442.,442,1,0,0,0,0,0,0,0,0,0,1,0,0
+530,609502642159489024,RT @BikesOnCaltrain: #NB371 will run with a 5-car set. #Caltrain,371,0,0,0,0,0,0,0,0,0,0,0,0,0
+531,609492775201959936,#SB152 is 11 mins late. #Caltrain,152,1,0,1,0,0,0,0,0,0,0,0,0,0
+532,608320491758174208,#NB135 is delayed 10 mins out of Redwood City. #Caltrain,135,1,1,0,0,0,0,0,0,0,0,0,0,0
+533,608286959337795584,RT @BikesOnCaltrain: #NB323 departed San Jose at capacity for bikes. #Caltrain,323,0,0,0,0,0,0,0,0,0,0,0,0,0
+534,608063927352741889,#NB267 stopped at MPK with engine issues.,267,1,0,0,0,0,0,0,0,0,0,1,0,0
+535,607954605029269504,#NB233 is 10 mins delayed at Millbrae. #Caltrain,233,1,1,0,0,0,0,0,0,0,0,0,0,0
