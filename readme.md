@@ -1,7 +1,6 @@
 # Predictive Model of Caltrain Delays
 ### GA Data Science certificate course
 This project is an attempt to analyze twitter (and other) datas to understand whether I can detect disruption within the Caltrain system, and map (with some degree of accuracy) the probability that something will go wrong.
-![Render](https://raw.githubusercontent.com/readywater/caltrain-predict/5a2ff7302e717b3f3b8df3611df4bfc914f9ad18/render.png)
 
 ### Use (all ipython notebooks)
 1. **00getdata** - Download and transform twitter data
@@ -13,3 +12,6 @@ This project is an attempt to analyze twitter (and other) datas to understand wh
 7. **06initial_analysis** - Sketchpad for early interprtetive models
 8. **07focus_decision_tree** - Complete analysis: Decision trees and gradient boosting, as well as multiple predictive approaches and tuning.
 
+
+
+![Render](https://raw.githubusercontent.com/readywater/caltrain-predict/5a2ff7302e717b3f3b8df3611df4bfc914f9ad18/render.png)
